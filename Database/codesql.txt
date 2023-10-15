@@ -1,0 +1,28 @@
+CREATE TABLE profiluser(codeProfil varchar(10) PRIMARY KEY, libelleProfil varchar(30));
+
+CREATE TABLE users (username varchar(30) PRIMARY KEY, name varchar(30), firstname varchar(30), password varchar(30), codeProfil varchar(10), FOREIGN KEY (codeProfil) REFERENCES profiluser(codeProfil));
+
+CREATE TABLE typeue(codeTypeUE varchar(10) PRIMARY KEY, libelleTypeUE varchar(30));
+CREATE TABLE ue(codeUE varchar(10) PRIMARY KEY, libelleUE varchar(30), coef int, codeTypeUE varchar(10), FOREIGN KEY (codeTypeUE) REFERENCES typeue(codeTypeUE));
+
+CREATE TABLE niveau(codeNiveau varchar(10) PRIMARY KEY, libelleNiveau varchar(30));
+CREATE TABLE filiere(codeFiliere varchar(10) PRIMARY KEY, libelleFiliere varchar(30));
+
+CREATE TABLE classe(codeClasse varchar(10) PRIMARY KEY, libelleClasse varchar(30), codeNiveau varchar(10), codeFiliere varchar (10), FOREIGN KEY (codeNiveau) REFERENCES niveau(codeNiveau), FOREIGN KEY (codeFiliere) REFERENCES filiere(codeFiliere));
+                    
+CREATE TABLE classe_ue(codeUE varchar(10), codeClasse varchar(10), PRIMARY KEY(codeUE, codeClasse), FOREIGN KEY (codeUE) REFERENCES ue(codeUE), FOREIGN KEY (codeClasse) REFERENCES classe(codeClasse));
+
+CREATE TABLE ecu(codeECU varchar(10) PRIMARY KEY, libelleECU varchar(30));
+CREATE TABLE typeeval(codeTypeEval varchar(10) PRIMARY KEY, libelleTypeEval varchar(30));
+
+CREATE TABLE evaluation(codeEval varchar(10) PRIMARY KEY, libelleEval varchar(30), codeECU varchar(10), dateEval date, codeTypeEval varchar(10), FOREIGN KEY (codeECU) REFERENCES ecu(codeECU), FOREIGN KEY (codeTypeEval) REFERENCES typeeval(codeTypeEval));
+
+CREATE TABLE statut(codeStatut varchar(10) PRIMARY KEY, libelleStatut varchar(30));
+
+CREATE TABLE etudiant(matricule varchar(10) PRIMARY KEY, nom varchar(30), prenom varchar(50), sexe char, telephone varchar(10), datenaissance varchar(10),lieunaissance varchar(30), nationalite varchar(30));
+
+CREATE TABLE obtenir(codeEval varchar(10), matricule varchar(10), PRIMARY KEY(codeEval, matricule), note double, FOREIGN KEY (codeEval) REFERENCES evaluation(codeEval), FOREIGN KEY (matricule) REFERENCES etudiant(matricule));
+
+CREATE TABLE anneeacad(idAnnee int AUTO_INCREMENT PRIMARY KEY, annee varchar(10));
+
+CREATE TABLE etudier(codeClasse varchar(10), matricule varchar(10), idAnnee int, PRIMARY KEY (codeClasse, matricule, idAnnee), FOREIGN KEY (codeClasse) REFERENCES classe(codeClasse), FOREIGN KEY (matricule) REFERENCES etudiant(matricule), FOREIGN KEY (idAnnee) REFERENCES anneeacad(idAnnee) );

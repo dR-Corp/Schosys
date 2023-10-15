@@ -1,0 +1,204 @@
+<?php
+    session_start();
+    if(isset($_SESSION['username']) && $_SESSION["codeProfil"] != "DA" && $_SESSION["codeProfil"] != "COM"){
+        Header("Location: tableau-de-bord");
+    }
+    if(!isset($_SESSION['username'])) {
+        Header("Location: connexion");
+    }
+?>
+<?php include("Headers/noyear.php") ?>
+<!DOCTYPE html>
+<html>
+<head>
+  <?php include("Headers/head.php") ?>
+</head>
+<body class="hold-transition sidebar-mini layout-fixed layout-navbar-fixed layout-footer-fixed">
+<div class="wrapper">
+
+  <!-- Navbar -->
+    <?php include("Headers/navbar.php") ?>
+  <!-- /.navbar -->
+
+  <!-- Main Sidebar Container -->
+  <?php include("Headers/sidebar.php") ?>
+
+  <!-- Content Wrapper. Contains page content -->
+  <div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <div class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-12">
+                    <?php include("Headers/titres.php") ?>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /.content-header -->
+    
+    <!-- Main content -->
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12">
+                    <div class="card">
+                        <div class="card-body pt-0">
+                            <div class="pt-2 pl-2 col-sm-0 float-left mb-3"></div>
+                            <div class="card pt-2 pl-2 col-sm-12 mb-3 bg-gray">
+                                <?php
+                                    include_once '../Models/Niveau.class.php';
+                                    include_once '../Models/Filiere.class.php';
+                                    include_once '../Models/Classe.class.php';
+
+                                    $filieres = Filiere::getAllFiliere($annee->getIdAnnee());
+                                    $niveaux = Niveau::getAllNiveau($annee->getIdAnnee());
+                                    
+                                ?>
+                                <form method="post" class="form-inline mr-3 mb-2" id="proces_filter">   
+                                    <div class="input-group input-group-sm mr-3">
+                                        <i class="fas fa-filter"></i>
+                                    </div>
+                                    <div class="input-group input-group-sm mr-3">
+                                        <label for="proces_niveau" class="mr-2">Niveau</label>
+                                        <select class="custom-select" name="proces_niveau" id="proces_niveau">
+                                            <option value=""></option>
+                                            <?php foreach($niveaux as $niveau): ?>
+                                            <option value="<?php echo $niveau['idNiveau'] ?>" <?php if(isset($_POST['proces_niveau']) && !empty($_POST['proces_niveau']) && $niveau['idNiveau']==$_POST['proces_niveau']) {echo 'selected';} ?>><?php echo $niveau['codeNiveau'] ?></option>
+                                            <?php endforeach?>
+                                        </select>
+                                    </div>
+                                    <div class="input-group input-group-sm mr-3">
+                                        <label for="proces_filiere" class="mr-2">Filière</label>
+                                        <select class="custom-select" name="proces_filiere" id="proces_filiere">
+                                            <option value=""></option>
+                                            <?php foreach($filieres as $filiere): ?>
+                                            <option value="<?php echo $filiere['idFiliere'] ?>" <?php if(isset($_POST['proces_filiere']) && !empty($_POST['proces_filiere']) && $filiere['idFiliere']==$_POST['proces_filiere']) {echo 'selected';} ?> ><?php echo $filiere['codeFiliere'] ?></option>
+                                            <?php endforeach?>
+                                        </select>
+                                    </div>
+                                </form>
+                            </div>
+                            <table id="table_classes" class="table table-bordered table-striped">
+                            <thead>
+                                <tr>
+                                    <th scope="col">N°</th>
+                                    <th scope="col">Code classe</th>
+                                    <th scope="col">Libellé classe</th>
+                                    <th scope="col">Filière</th>
+                                    <th scope="col">Niveau</th>
+                                    <th scope="col">Actions</th>
+                                    <th hidden scope="col">idClasse</th>
+                                    <th hidden scope="col">idFiliere</th>
+                                    <th hidden scope="col">idNiveau</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            <?php
+
+                                $id = 1;
+                                $classes = Classe::getAllClasse($annee->getIdAnnee());
+
+                                foreach ($classes as $classe) {
+                            ?>
+                                <tr>
+                                    <th scope="row"><?php echo $id ?></th>
+                                    <td><?php echo $classe['codeClasse'] ?></td>
+                                    <td><?php echo $classe['libelleClasse'] ?></td>
+                                    <td><?php echo (Filiere::read($classe['idFiliere']))->getCodeFiliere()  ?></td>
+                                    <td><?php echo (Niveau::read($classe['idNiveau']))->getCodeNiveau()  ?></td>
+                                    <td>
+                                        <a href="../proces-verbal/<?= $classe['idClasse'] ?>"><button type="button" data-tog="tooltip" data-placement="bottom" title="Details" class="btn btn-xs btn-info"><i class="fas fa-folder-open" aria-hidden="true"></i></button></a>
+                                    </td>
+                                    <td hidden><?php echo $classe['idClasse'] ?></td>
+                                    <td hidden><?php echo $classe['idFiliere'] ?></td>
+                                    <td hidden><?php echo $classe['idNiveau'] ?></td>
+                                </tr>
+                            <?php
+                                $id++;
+                                } 
+                            ?>
+                            </tbody>
+                            <tfoot>
+                                <tr>
+                                    <th scope="col">N°</th>
+                                    <th scope="col">Code classe</th>
+                                    <th scope="col">Libellé classe</th>
+                                    <th scope="col">Filière</th>
+                                    <th scope="col">Niveau</th>
+                                    <th scope="col">Actions</th>
+                                    <th hidden scope="col">idClasse</th>
+                                    <th hidden scope="col">idFiliere</th>
+                                    <th hidden scope="col">idNiveau</th>
+                                </tr>
+                            </tfoot>
+                            </table>
+                        </div>
+                        <!-- /.card-body -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </section>
+    <!-- /.content -->
+  </div>
+  <!-- /.content-wrapper -->
+
+  <?php include("Footers/footer.php") ?>
+  <!-- Control Sidebar -->
+  <aside class="control-sidebar control-sidebar-dark">
+    <!-- Control sidebar content goes here -->
+  </aside>
+  <!-- /.control-sidebar -->
+</div>
+<!-- ./wrapper -->
+
+    <?php include("Footers/script.php") ?>
+
+    <script>
+    $(function () {
+        $("#table_classes").DataTable({
+            "responsive": true,
+            "autoWidth": false,
+            "language" : {
+                
+                "sEmptyTable":     "Aucune donnée disponible dans le tableau",
+                "sInfo":           "Affichage de l'élément _START_ à _END_ sur _TOTAL_ éléments",
+                "sInfoEmpty":      "Affichage de l'élément 0 à 0 sur 0 élément",
+                "sInfoFiltered":   "(filtré à partir de _MAX_ éléments au total)",
+                "sInfoPostFix":    "",
+                "sInfoThousands":  ",",
+                "sLengthMenu":     "Afficher _MENU_ éléments",
+                "sLoadingRecords": "Chargement...",
+                "sProcessing":     "Traitement...",
+                "sSearch":         "Rechercher :",
+                "sZeroRecords":    "Aucun élément correspondant trouvé",
+                "oPaginate": {
+                    "sFirst":    "Premier",
+                    "sLast":     "Dernier",
+                    "sNext":     "Suivant",
+                    "sPrevious": "Précédent"
+                },
+                "oAria": {
+                    "sSortAscending":  ": activer pour trier la colonne par ordre croissant",
+                    "sSortDescending": ": activer pour trier la colonne par ordre décroissant"
+                },
+                "select": {
+                        "rows": {
+                            "_": "%d lignes sélectionnées",
+                            "0": "Aucune ligne sélectionnée",
+                            "1": "1 ligne sélectionnée"
+                        } 
+                }
+            }
+        });
+    });
+
+    $(function () {
+        $('[data-tog="tooltip"]').tooltip()
+    });
+
+    </script>
+
+</body>
+</html>

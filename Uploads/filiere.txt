@@ -1,0 +1,20 @@
+27/10/2020 15:44:49 Ajout de filiere 20212022-7 aaaaaaa aaaaaaaaa par Directeur adjoint ADEKAMBI Souleimane 
+27/10/2020 15:45:02 Modification de filiere ''20212022-7 aaaaaaa aaaaaaaaa'' en ''aaaaaaa bbbbbbbbb'' par Directeur adjoint ADEKAMBI Souleimane 
+27/10/2020 15:45:13 Modification de filiere ''20212022-7 aaaaaaa bbbbbbbbb'' en ''bb bbbbbbbbb'' par Directeur adjoint ADEKAMBI Souleimane 
+27/10/2020 15:45:36 Modification de filiere ''20212022-7 bb bbbbbbbbb'' en ''bb BBBBBBBBB'' par Directeur adjoint ADEKAMBI Souleimane 
+27/10/2020 15:50:09 Modification de filiere ''20212022-7 bb BBBBBBBBB'' en ''VV BBBBBBBBB'' par Directeur adjoint ADEKAMBI Souleimane 
+27/10/2020 15:50:20 Modification de filiere ''20212022-7 VV BBBBBBBBB'' en '',V BBBBBBBBB'' par Directeur adjoint ADEKAMBI Souleimane 
+27/10/2020 15:50:31 Modification de filiere ''20212022-7 ,V BBBBBBBBB'' en ''AA BBBBBBBBB'' par Directeur adjoint ADEKAMBI Souleimane 
+27/10/2020 15:50:41 Modification de filiere ''20212022-7 AA BBBBBBBBB'' en ''AA BBBBBBBBB'' par Directeur adjoint ADEKAMBI Souleimane 
+27/10/2020 15:54:10 Suppression de filiere ''20212022-7 AA BBBBBBBBB'' par Directeur adjoint ADEKAMBI Souleimane 
+17/11/2020 22:26:21 Ajout de filiere 20192020-1 GC Gestion Commerciale par Directeur adjoint ADEKAMBI Souleimane 
+03/12/2020 14:56:26 Ajout de filiere 20192020-2 IG Informatique de Gestion par Directeur adjoint JEAN Jacques 
+08/12/2020 12:53:53 Ajout de filiere 20192020-3 GB Gestion des Banques par Directeur adjoint JEAN Jacques 
+08/12/2020 17:44:40 Ajout de filiere 20192020-4 GE Gestion des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 01:01:56 Suppression de filiere ''20192020-4 GE Gestion des Entreprises'' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:02:01 Suppression de filiere ''20192020-3 GB Gestion des Banques'' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:02:10 Suppression de filiere ''20192020-2 IG Informatique de Gestion'' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:19:15 Ajout de filiere 20202021-1 GC Gestion Commerciale par Directeur adjoint JEAN Jacques 
+10/12/2020 01:19:31 Ajout de filiere 20202021-2 IG informatique de Gestion par Directeur adjoint JEAN Jacques 
+10/12/2020 01:19:37 Modification de filiere ''20202021-2 IG informatique de Gestion'' en ''IG Informatique de Gestion'' par Directeur adjoint JEAN Jacques 
+01/09/2023 03:51:01 Ajout de filiere 20192020-3 GB Gestion de Banques par Directeur adjoint JEAN Jacques 

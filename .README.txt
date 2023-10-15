@@ -1,0 +1,4 @@
+- Mise à jour de l'application Schosys
+- Mise de l'architecture logiciel
+- Revision de la génération des procès verbaux
+- Mise à j

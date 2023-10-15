@@ -1,0 +1,54 @@
+17/11/2020 22:26:29 Ajout de classe '' 20192020-1 LP-GC-1 Première année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint ADEKAMBI Souleimane 
+17/11/2020 22:53:55 Suppression de la classe '' 20192020-1 LP-GC-1 Première année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint ADEKAMBI Souleimane 
+17/11/2020 22:54:01 Ajout de classe '' 20192020-1 LP-GC-1 Première année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint ADEKAMBI Souleimane 
+17/11/2020 23:18:53 Ajout de classe '' 20192020-2 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 00:42:58 Ajout de classe '' 20192020-3 LP-GC-2 Deuxième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 00:43:39 Suppression de la classe '' 20192020-2 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 00:43:46 Suppression de la classe '' 20192020-3 LP-GC-2 Deuxième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 00:43:55 Suppression de la classe '' 20192020-1 LP-GC-1 Première année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 00:44:07 Ajout de classe '' 20192020-1 LP-GC-1 Première année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 00:44:17 Ajout de classe '' 20192020-2 LP-GC-2 Deuxième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 00:52:44 Ajout de classe '' 20192020-3 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 00:52:50 Suppression de la classe '' 20192020-3 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 00:52:55 Suppression de la classe '' 20192020-2 LP-GC-2 Deuxième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 00:53:08 Ajout de classe '' 20192020-2 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint ADEKAMBI Souleimane 
+03/12/2020 15:33:30 Ajout de classe '' 20192020-2 LP-IG-1 Première année de Licence Professionnelle en Informatique de Gestion '' par Directeur adjoint JEAN Jacques 
+06/12/2020 01:44:43 Ajout de classe '' 20192020-3 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+08/12/2020 12:54:21 Ajout de classe '' 20192020-3 LP-GB-1 Première année de Licence Professionnelle en Gestion des Banques '' par Directeur adjoint JEAN Jacques 
+08/12/2020 17:45:00 Ajout de classe '' 20192020-4 DP-GE-1 Première année de doctorat professionnel en Gestion des Entreprises '' par Directeur adjoint JEAN Jacques 
+09/12/2020 11:57:31 Ajout de classe '' 20192020-5 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:02:18 Suppression de la classe '' 20192020-5 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:02:22 Suppression de la classe '' 20192020-2 LP-GC-2 Deuxième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:19:49 Ajout de classe '' 20202021-1 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:20:22 Ajout de classe '' 20202021-2 LP-IG-3 Troisième année de Licence Professionnelle en Informatique de Gestion '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:20:59 Suppression de la classe '' 20202021-2 LP-IG-3 Troisième année de Licence Professionnelle en Informatique de Gestion '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:21:09 Ajout de classe '' 20202021-2 LP-IG-3 Troisième année de Licence Professionnelle en Informatique de Gestion '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:21:25 Suppression de la classe '' 20202021-2 LP-IG-3 Troisième année de Licence Professionnelle en Informatique de Gestion '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:21:53 Ajout de classe '' 20202021-2 LP-IG-3 Troisième année de Licence Professionnelle en Informatique de Gestion '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:28:03 Suppression de la classe '' 20202021-2 LP-IG-3 Troisième année de Licence Professionnelle en Informatique de Gestion '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:28:07 Suppression de la classe '' 20202021-1 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:28:40 Ajout de classe '' 20202021-1 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:32:52 Suppression de la classe '' 20202021-1 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:33:00 Ajout de classe '' 20202021-1 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:33:19 Suppression de la classe '' 20202021-1 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:33:44 Ajout de classe '' 20202021-1 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:42:10 Suppression de la classe '' 20202021-1 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:42:17 Ajout de classe '' 20202021-1 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:52:10 Suppression de la classe '' 20202021-1 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:53:05 Ajout de classe '' 20202021-1 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:54:59 Suppression de la classe '' 20202021-1 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:55:10 Ajout de classe '' 20202021-1 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:56:50 Suppression de la classe '' 20202021-1 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:56:57 Ajout de classe '' 20202021-1 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:57:11 Ajout de classe '' 20202021-2 LP-IG-3 Troisième année de Licence Professionnelle en Informatique de Gestion '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:57:17 Suppression de la classe '' 20202021-2 LP-IG-3 Troisième année de Licence Professionnelle en Informatique de Gestion '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:57:22 Suppression de la classe '' 20202021-1 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+10/12/2020 01:57:37 Ajout de classe '' 20202021-1 LP-GC-3 Troisième année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+10/12/2020 10:15:00 Ajout de classe '' 20202021-2 LP-IG-3 Troisième année de Licence Professionnelle en Informatique de Gestion '' par Directeur adjoint JEAN Jacques 
+10/12/2020 10:18:53 Suppression de la classe '' 20202021-2 LP-IG-3 Troisième année de Licence Professionnelle en Informatique de Gestion '' par Directeur adjoint JEAN Jacques 
+10/12/2020 10:19:57 Ajout de classe '' 20202021-2 LP-IG-3 Troisième année de Licence Professionnelle en Informatique de Gestion '' par Directeur adjoint JEAN Jacques 
+10/12/2020 10:30:20 Suppression de la classe '' 20202021-2 LP-IG-3 Troisième année de Licence Professionnelle en Informatique de Gestion '' par Directeur adjoint JEAN Jacques 
+10/12/2020 10:31:22 Ajout de classe '' 20202021-2 LP-IG-3 Troisième année de Licence Professionnelle en Informatique de Gestion '' par Directeur adjoint JEAN Jacques 
+10/12/2020 10:47:52 Suppression de la classe '' 20202021-2 LP-IG-3 Troisième année de Licence Professionnelle en Informatique de Gestion '' par Directeur adjoint JEAN Jacques 
+09/04/2021 11:15:15 Ajout de classe '' 20202021-2 LP-GC-1 Première année de Licence Professionnelle en Gestion Commerciale '' par Directeur adjoint JEAN Jacques 
+01/09/2023 03:51:54 Ajout de classe '' 20192020-4 LP-GB-1 Première année de Licence Professionnelle en Gestion de Banques '' par Directeur adjoint JEAN Jacques 

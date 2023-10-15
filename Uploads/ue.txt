@@ -1,0 +1,94 @@
+27/10/2020 16:08:27 Ajout d'UE 20212022-18 aaa aaaaaaaaaaaaa 1 SP par Directeur adjoint ADEKAMBI Souleimane 
+27/10/2020 16:12:36 Modification d'UE ''20212022-18 aaa aaaaaaaaaaaaa 1 SP'' en ''BBB aaaaaaaaaaaaa 1 SP'' par Directeur adjoint ADEKAMBI Souleimane 
+27/10/2020 16:12:46 Modification d'UE ''20212022-18 BBB aaaaaaaaaaaaa 1 SP'' en ''BBB aaaaaaaaaaaaa 1 SP'' par Directeur adjoint ADEKAMBI Souleimane 
+27/10/2020 16:13:02 Modification d'UE ''20212022-18 BBB aaaaaaaaaaaaa 1 SP'' en ''BBB aaaaaaaaaaaaa 2 SP'' par Directeur adjoint ADEKAMBI Souleimane 
+27/10/2020 16:13:08 Suppression d'UE ''20212022-18 BBB aaaaaaaaaaaaa 2 SP'' par Directeur adjoint ADEKAMBI Souleimane 
+29/10/2020 01:48:37 Ajout d'UE 20212022-18 PC2 Programmation C++2 3 SP par Directeur adjoint ADEKAMBI Souleimane 
+29/10/2020 01:49:15 Ajout d'UE 20212022-19 VBA Visual Basic et Acces 3 SP par Directeur adjoint ADEKAMBI Souleimane 
+29/10/2020 01:49:47 Ajout d'UE 20212022-20 TSE Théorie des Systèmes d'Exploitation 3 SP par Directeur adjoint ADEKAMBI Souleimane 
+29/10/2020 01:51:08 Ajout d'UE 20212022-21 AF Analyse Financière 3 TC par Directeur adjoint ADEKAMBI Souleimane 
+29/10/2020 01:52:00 Ajout d'UE 20212022-22 DSGC Dialogue Social et Gestion de Conflits 2 TC par Directeur adjoint ADEKAMBI Souleimane 
+29/10/2020 01:52:49 Ajout d'UE 20212022-23 AC Anglais Commercial 2 TC par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:26:51 Suppression d'UE ''20212022-1 RSE Responsabilité Sociale des Entreprises 2 SP'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:26:59 Suppression d'UE ''20212022-10 MS Marketing Stratégique 2 TC'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:27:05 Suppression d'UE ''20212022-11 TRAE Technique de Recherche Active d'Emploi 2 SP'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:27:09 Suppression d'UE ''20212022-12 IAP Informatique Appliquée 2 SP'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:27:17 Suppression d'UE ''20212022-13 MR Méthodologie de Recherche 4 SP'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:27:27 Suppression d'UE ''20212022-14 CE Création d'Entreprise 3 SP'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:27:34 Suppression d'UE ''20212022-15 SCM Système Commercial Multilatéral 3 SP'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:32:29 Suppression d'UE ''20212022-16 GQRC Gestion de la Qualité Relation Clients 3 SP'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:32:42 Suppression d'UE ''20212022-17 EC Etude de Cas 4 SP'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:33:40 Suppression d'UE ''20212022-2 MI Marketing Industriel 3 SP'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:35:45 Suppression d'UE ''20212022-3 GA Gestion des Achats 4 SP'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:36:17 Suppression d'UE ''20212022-7 STAT Statistiques 6 TC'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:36:24 Suppression d'UE ''20212022-8 CG Comptabilité Générale 2 TC'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:36:30 Suppression d'UE ''20212022-9 MF Mathématiques Financières 2 TC'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:36:38 Suppression d'UE ''20212022-6 AA Algorithme 3 SP'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:36:47 Suppression d'UE ''20212022-5 ATO Architecture et Technologie des Ordinateurs 3 SP'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:36:59 Suppression d'UE ''20212022-4 EL Environnement Logiciel 3 SP'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:37:31 Ajout d'UE 20212022-24 XX xxxxxxxxxxxxxxxxxxxxxxxxxxx 4 SP par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:04 Suppression d'UE ''20212022-24 XX xxxxxxxxxxxxxxxxxxxxxxxxxxx 4 SP'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:11 Ajout d'UE 20212022-24 RSE Responsabilité Sociale des Entreprises 2 SP par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:11 Ajout d'UE 20212022-25 MI Marketing Industriel 3 SP par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:11 Ajout d'UE 20212022-26 GA Gestion des Achats 4 SP par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:11 Ajout d'UE 20212022-27 EL Environnement Logiciel 3 SP par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:11 Ajout d'UE 20212022-28 ATO Architecture et Technologie des Ordinateurs 3 SP par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:11 Ajout d'UE 20212022-29 AA Algorithme 3 SP par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:11 Ajout d'UE 20212022-30 STAT Statistiques 6 TC par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:12 Ajout d'UE 20212022-31 CG Comptabilité Générale 2 TC par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:12 Ajout d'UE 20212022-32 MF Mathématiques Financières 2 TC par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:12 Ajout d'UE 20212022-33 MS Marketing Stratégique 2 TC par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:12 Ajout d'UE 20212022-34 TRAE Technique de Recherche Active d'Emploi 2 SP par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:12 Ajout d'UE 20212022-35 IAP Informatique Appliquée 2 SP par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:12 Ajout d'UE 20212022-36 MR Méthodologie de Recherche 4 SP par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:13 Ajout d'UE 20212022-37 CE Création d'Entreprise 3 SP par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:13 Ajout d'UE 20212022-38 SCM Système Commercial Multilatéral 3 SP par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:13 Ajout d'UE 20212022-39 GQRC Gestion de la Qualité Relation Clients 3 SP par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:13 Ajout d'UE 20212022-40 EC Etude de Cas 4 SP par Directeur adjoint ADEKAMBI Souleimane 
+04/11/2020 00:02:44 Ajout d'UE 20212022-41 QQ qqqqqqqqqqqqqq 4 SP par Directeur adjoint ADEKAMBI Souleimane 
+04/11/2020 00:24:04 Suppression d'UE ''20212022-41 QQ qqqqqqqqqqqqqq 4 SP'' par Directeur adjoint ADEKAMBI Souleimane 
+04/11/2020 00:24:33 Ajout d'UE 20212022-41 QQ qqqqqqqqqqqqq 5 TC par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 09:52:50 Ajout d'UE 20192020-1 DROIT Droit 3 TC par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 09:54:27 Ajout d'UE 20192020-2 MKF Marketing Fondamental 4 TC par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 09:54:55 Ajout d'UE 20192020-3 MAN Management 4 TC par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 09:54:59 Ajout d'UE 20192020-4 MG Mathématique Générale 4 TC par Directeur adjoint JEAN Jacques 
+18/11/2020 09:55:22 Ajout d'UE 20192020-5 EE Economie d'Entreprise 2 TC par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 09:55:39 Ajout d'UE 20192020-6 MF Mathématiques Financières 3 TC par Directeur adjoint JEAN Jacques 
+18/11/2020 09:56:12 Ajout d'UE 20192020-7 EMPD Etude de Marché et Prévision de la Demande 2 SP par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 09:56:21 Ajout d'UE 20192020-8 SD Statistiques Descriptives 5 TC par Directeur adjoint JEAN Jacques 
+18/11/2020 09:56:49 Ajout d'UE 20192020-9 CC Comportement du Consommateur 2 SP par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 09:57:11 Ajout d'UE 20192020-10 IG Informatique Générale 5 TC par Directeur adjoint JEAN Jacques 
+18/11/2020 09:57:19 Ajout d'UE 20192020-11 LNP Lancement de Nouveaux Produits 2 SP par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 09:57:46 Ajout d'UE 20192020-12 MERC Merchandising 2 SP par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 09:59:26 Ajout d'UE 20192020-13 GOSC Gestion et Organisation des services Commerciaux 2 SP par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 10:00:54 Ajout d'UE 20192020-14 ECOIE Economie 4 TC par Directeur adjoint JEAN Jacques 
+18/11/2020 10:02:25 Ajout d'UE 20192020-15 CG Comptabilité Générale 4 SP par Directeur adjoint JEAN Jacques 
+18/11/2020 10:02:54 Ajout d'UE 20192020-16 MKS Marketing Stratégique 2 SP par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 10:02:58 Ajout d'UE 20192020-17 LC Langues et Communication 4 TC par Directeur adjoint JEAN Jacques 
+18/11/2020 10:03:25 Ajout d'UE 20192020-18 CN Comptabilité Nationale 4 TC par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 10:04:22 Ajout d'UE 20192020-19 IE Initiation à l'Entrepreneuriat  2 TC par Directeur adjoint ADEKAMBI Souleimane 
+19/11/2020 10:40:00 Modification d'UE ''20192020-9 CC Comportement du Consommateur 2 SP 1 cccc'' en ''CC Comportement du Consommateur 2 SP 1 1'' par Directeur adjoint JEAN Jacques 
+24/11/2020 01:35:20 Suppression d'UE ''20192020-20 RETO retour 4 SP 2 2'' par Directeur adjoint JEAN Jacques 
+08/12/2020 12:55:24 Ajout d'UE 20192020-20 GA Gestion de l'argent 4 SP 1 natureUE par Directeur adjoint JEAN Jacques 
+08/12/2020 17:45:40 Ajout d'UE 20192020-21 CP Comptabilité Personnelle 3 SP 1 natureUE par Directeur adjoint JEAN Jacques 
+10/12/2020 00:59:07 Suppression d'UE ''20192020-21 CP Comptabilité Personnelle 3 SP 1 1'' par Directeur adjoint JEAN Jacques 
+10/12/2020 00:59:22 Suppression d'UE ''20192020-20 GA Gestion de l'argent 4 SP 1 1'' par Directeur adjoint JEAN Jacques 
+10/12/2020 02:07:50 Ajout d'UE 20202021-1 MI Marketing Industrielle 3 SP 1 natureUE par Directeur adjoint JEAN Jacques 
+10/12/2020 02:08:16 Ajout d'UE 20202021-2 GA Gestion des Achats 4 SP 1 natureUE par Directeur adjoint JEAN Jacques 
+10/12/2020 02:10:05 Modification d'UE ''20202021-1 MI Marketing Industrielle 3 SP 1 1'' en ''MI Marketing Industriel 3 SP 1 1'' par Directeur adjoint JEAN Jacques 
+10/12/2020 02:11:39 Ajout d'UE 20202021-3 SCM Système Commercial Multilatéral 3 SP 1 natureUE par Directeur adjoint JEAN Jacques 
+10/12/2020 02:12:19 Ajout d'UE 20202021-4 GRQC Gestion de la Qualité Relation Clients 3 SP 1 natureUE par Directeur adjoint JEAN Jacques 
+10/12/2020 02:12:46 Ajout d'UE 20202021-5 EC Etude de cas 4 SP 1 natureUE par Directeur adjoint JEAN Jacques 
+10/12/2020 02:14:38 Modification d'UE ''20202021-4 GRQC Gestion de la Qualité Relation Clients 3 SP 1 1'' en ''GQRC Gestion de la Qualité Relation Clients 3 SP 1 1'' par Directeur adjoint JEAN Jacques 
+10/12/2020 02:15:51 Ajout d'UE 20202021-6 IA Informatique Appliquée 2 SP 1 natureUE par Directeur adjoint JEAN Jacques 
+10/12/2020 02:16:38 Ajout d'UE 20202021-7 MR Méthodologie de Recherche 4 TC 1 natureUE par Directeur adjoint JEAN Jacques 
+10/12/2020 02:17:13 Ajout d'UE 20202021-8 CE Création d'Entreprise 3 SP 1 natureUE par Directeur adjoint JEAN Jacques 
+10/12/2020 02:20:09 Ajout d'UE 20202021-9 RSE Responsabilité Sociale des Entreprises 2 TC 1 natureUE par Directeur adjoint JEAN Jacques 
+10/12/2020 02:20:20 Modification d'UE ''20202021-8 CE Création d'Entreprise 3 SP 1 1'' en ''CE Création d'Entreprise 3 TC 1 1'' par Directeur adjoint JEAN Jacques 
+10/12/2020 02:21:12 Ajout d'UE 20202021-10 MS Marketing Stratégique 2 SP 1 natureUE par Directeur adjoint JEAN Jacques 
+10/12/2020 02:23:26 Ajout d'UE 20202021-11 TRAE Technique de Recherche Active d'Emploi 2 TC 1 natureUE par Directeur adjoint JEAN Jacques 
+10/12/2020 10:15:53 Modification d'UE ''20202021-8 CE Création d'Entreprise 3 TC 1 1'' en ''CE Création d'Entreprise 3 TC 1 1'' par Directeur adjoint JEAN Jacques 
+10/12/2020 10:18:44 Modification d'UE ''20202021-8 CE Création d'Entreprise 3 TC 1 1'' en ''CE Création d'Entreprise 3 TC 1 1'' par Directeur adjoint JEAN Jacques 
+09/04/2021 12:12:15 Ajout d'UE 20202021-12 AQ Aqq Qqss 2 SP 1 natureUE par Directeur adjoint JEAN Jacques 
+01/09/2023 03:56:09 Ajout d'UE 20192020-20 AA AA 2 TC 1 natureUE par Directeur adjoint JEAN Jacques 
+01/09/2023 03:56:16 Suppression d'UE ''20192020-20 AA AA 2 TC 1 1'' par Directeur adjoint JEAN Jacques 

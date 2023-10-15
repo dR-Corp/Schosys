@@ -1,0 +1,91 @@
+27/10/2020 15:13:20 Ajout d'ECU 20212022-23 aaa aaaaaaaaaaaaa (RSE) par Directeur adjoint ADEKAMBI Souleimane 
+27/10/2020 15:21:10 Modification d'ECU ''20212022-23 aaab bbbbbbbbbaaaaaaaaa (RSE)'' en ''aaab bbbbbbbbbaaaaaaaaa RSE'' par Directeur adjoint ADEKAMBI Souleimane 
+27/10/2020 15:21:22 Suppression d'ECU ''20212022-23 aaab bbbbbbbbbaaaaaaaaa (RSE)'' par Directeur adjoint ADEKAMBI Souleimane 
+27/10/2020 16:36:38 Ajout d'ECU 20212022-23 CCC sssssssssssssss (RSE) par Directeur adjoint ADEKAMBI Souleimane 
+27/10/2020 16:38:35 Suppression d'ECU ''20212022-23 CCC sssssssssssssss (RSE)'' par Directeur adjoint ADEKAMBI Souleimane 
+29/10/2020 01:53:45 Ajout d'ECU 20212022-23 DSGC Dialogue Social et Gestion de Conflit (DSGC) par Directeur adjoint ADEKAMBI Souleimane 
+29/10/2020 01:54:09 Ajout d'ECU 20212022-24 AF Analyse Financière (AF) par Directeur adjoint ADEKAMBI Souleimane 
+29/10/2020 01:54:45 Ajout d'ECU 20212022-25 AC Anglais Commercial (AC) par Directeur adjoint ADEKAMBI Souleimane 
+29/10/2020 01:55:08 Ajout d'ECU 20212022-26 VBA Visual Basic et Acces (VBA) par Directeur adjoint ADEKAMBI Souleimane 
+29/10/2020 01:55:29 Ajout d'ECU 20212022-27 PC2 Programmation C++2 (PC2) par Directeur adjoint ADEKAMBI Souleimane 
+29/10/2020 01:56:38 Ajout d'ECU 20212022-28 TSE Théorie des Système d'Exploitation (TSE) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:47:29 Ajout d'ECU 20212022-29 XXXX qqqqqqqqqqqqqqqqqq (XX) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:58:30 Suppression d'ECU ''20212022-29 XXXX qqqqqqqqqqqqqqqqqq (XX)'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 12:58:52 Ajout d'ECU 20212022-29 XX qqqqqqqqqqqqqqqqqq (XX) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:00:05 Suppression d'ECU ''20212022-29 XX qqqqqqqqqqqqqqqqqq (XX)'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:36 Ajout d'ECU 20212022-29 RSE Responsabilité Sociale des Entreprises (RSE) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:37 Ajout d'ECU 20212022-30 MS Marketing Stratégique (MS) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:37 Ajout d'ECU 20212022-31 TRAE Technique de Recherche Active d'Emploi (TRAE) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:38 Ajout d'ECU 20212022-32 IAP Informatique Appliquée (IAP) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:39 Ajout d'ECU 20212022-33 MER MEREAGE (MR) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:40 Ajout d'ECU 20212022-34 ADQQ Analyse des Données Quantitatives et Qualitatives (MR) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:40 Ajout d'ECU 20212022-35 CE Création d'Entreprise (CE) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:41 Ajout d'ECU 20212022-36 SCM Système Commercial Multilatéral (SCM) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:41 Ajout d'ECU 20212022-37 GQRC Gestion de la Qualité Relation Clients (GQRC) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:41 Ajout d'ECU 20212022-38 MEC Méthodologie d'Etude de Cas (EC) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:42 Ajout d'ECU 20212022-39 MI Marketing Industriel (MI) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:43 Ajout d'ECU 20212022-40 FGA Fondamentaux Gestion des Achats (GA) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:43 Ajout d'ECU 20212022-41 POA Pratique Opérationnelle des Achats (GA) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:44 Ajout d'ECU 20212022-42 PEC Pratique d'Etude de Cas (EC) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:44 Ajout d'ECU 20212022-43 EL Environnement logiciel (EL) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:45 Ajout d'ECU 20212022-44 AA Algorithme (AA) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:45 Ajout d'ECU 20212022-45 ATO Architecture et Technologie des Ordinateurs (ATO) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:46 Ajout d'ECU 20212022-46 CG Comptabilité Générale (CG) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:46 Ajout d'ECU 20212022-47 MF Mathématiques Financières (MF) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:46 Ajout d'ECU 20212022-48 SIT Séries et Indices Temporelles (STAT) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:47 Ajout d'ECU 20212022-49 SD Statistiques Descriptives (STAT) par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 13:01:47 Ajout d'ECU 20212022-50 SECU2 Statistiques ECU2 (STAT) par Directeur adjoint ADEKAMBI Souleimane 
+02/11/2020 10:36:37 Ajout d'ECU 20212022-51 VBA2 Visual Basic et Accès 2 (VBA) par Directeur adjoint ADEKAMBI Souleimane 
+02/11/2020 16:51:19 Suppression d'ECU ''20212022-51 VBA2 Visual Basic et Accès 2 (VBA)'' par Directeur adjoint ADEKAMBI Souleimane 
+02/11/2020 16:51:41 Modification d'ECU ''20212022-26 VBA Visual Basic et Acces (VBA)'' en ''VBA Visual Basic et Accès VBA'' par Directeur adjoint ADEKAMBI Souleimane 
+02/11/2020 16:51:51 Modification d'ECU ''20212022-26 VBA Visual Basic et Accès (VBA)'' en ''VBA Visual Basic et Access VBA'' par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 10:03:51 Ajout d'ECU 20192020-1 IF Informatique Fondamentale (IG) par Directeur adjoint JEAN Jacques 
+18/11/2020 10:04:17 Ajout d'ECU 20192020-2 PI Pratique Informatique (IG) par Directeur adjoint JEAN Jacques 
+18/11/2020 10:04:42 Ajout d'ECU 20192020-3 MACRO Macroéconomie (ECO) par Directeur adjoint JEAN Jacques 
+18/11/2020 10:05:02 Ajout d'ECU 20192020-4 MICRO Microéconomie (ECO) par Directeur adjoint JEAN Jacques 
+18/11/2020 10:05:50 Ajout d'ECU 20192020-5 IC Initiation à la Comptabilité (CG) par Directeur adjoint JEAN Jacques 
+18/11/2020 10:06:08 Ajout d'ECU 20192020-6 IE Initiation à l'Entrepreneuriat (IE) par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 10:06:18 Ajout d'ECU 20192020-7 OI Opérations d'inventaire (CG) par Directeur adjoint JEAN Jacques 
+18/11/2020 10:06:36 Ajout d'ECU 20192020-8 AAE Analyse des Agrégats Economiques (CN) par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 10:07:05 Ajout d'ECU 20192020-9 ASI Analyse des Secteurs Institutionnels (CN) par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 10:07:06 Ajout d'ECU 20192020-10 TEEO Techniques d'Expression Ecrite et Orale (LC) par Directeur adjoint JEAN Jacques 
+18/11/2020 10:07:28 Ajout d'ECU 20192020-11 AE Anglais Economique (LC) par Directeur adjoint JEAN Jacques 
+18/11/2020 10:07:30 Ajout d'ECU 20192020-12 MKS Marketing Stratégique (MKS) par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 10:08:04 Ajout d'ECU 20192020-13 ANALYSE Analyse (MG) par Directeur adjoint JEAN Jacques 
+18/11/2020 10:08:08 Ajout d'ECU 20192020-14 GOSC Gestion et Organisation des Services Commerciaux (GOSC) par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 10:08:28 Ajout d'ECU 20192020-15 ALGEBRE Algèbre (MG) par Directeur adjoint JEAN Jacques 
+18/11/2020 10:08:28 Ajout d'ECU 20192020-16 MERC Merchandising (MERC) par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 10:08:59 Ajout d'ECU 20192020-17 LNP Lancement de Nouveaux Produits (LNP) par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 10:10:03 Ajout d'ECU 20192020-18 CC Comportement du Consommateur (CC) par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 10:10:51 Ajout d'ECU 20192020-19 MF Mathématiques Financières (MF) par Directeur adjoint JEAN Jacques 
+18/11/2020 10:11:42 Ajout d'ECU 20192020-20 MO Management des Organisations (MAN) par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 10:12:24 Ajout d'ECU 20192020-21 TO Théorie des Organisations (MAN) par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 10:12:49 Ajout d'ECU 20192020-22 CR Collecte et Représentations (SD) par Directeur adjoint JEAN Jacques 
+18/11/2020 10:13:00 Ajout d'ECU 20192020-23 EE Economie d'Entreprise (EE) par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 10:13:26 Ajout d'ECU 20192020-24 CS Caractéristiques synthétiques (SD) par Directeur adjoint JEAN Jacques 
+18/11/2020 10:13:31 Ajout d'ECU 20192020-25 EMPD Etude de Marché et Prévision de la Demande (EMPD) par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 10:14:10 Ajout d'ECU 20192020-26 STI Séries Temporelles et Indices (SD) par Directeur adjoint JEAN Jacques 
+18/11/2020 10:14:34 Ajout d'ECU 20192020-27 IITD Introduction et Initiation aux Typologies de Droit (DROIT) par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 10:14:52 Ajout d'ECU 20192020-28 DS Droit Social (DROIT) par Directeur adjoint ADEKAMBI Souleimane 
+18/11/2020 10:15:29 Ajout d'ECU 20192020-29 FC Fondements et Concepts (MKF) par Directeur adjoint JEAN Jacques 
+18/11/2020 10:15:53 Ajout d'ECU 20192020-30 MKO Marketing Opérationnel (MKF) par Directeur adjoint ADEKAMBI Souleimane 
+27/11/2020 21:01:35 Ajout d'ECU 20192020-31 AAEQ Equilébè (SD) par Directeur adjoint JEAN Jacques 
+27/11/2020 21:02:28 Suppression d'ECU ''20192020-31 AAEQ Equilébè (SD)'' par Directeur adjoint JEAN Jacques 
+08/12/2020 12:56:00 Ajout d'ECU 20192020-31 GA Gestion d&quot;argent (GA) par Directeur adjoint JEAN Jacques 
+08/12/2020 17:46:05 Ajout d'ECU 20192020-32 CP Comptabilité Personnelle (CP) par Directeur adjoint JEAN Jacques 
+10/12/2020 02:08:43 Ajout d'ECU 20202021-1 MI Marketing Industriel (MI) par Directeur adjoint JEAN Jacques 
+10/12/2020 02:09:28 Ajout d'ECU 20202021-2 FGA Fondamentaux Gestion des Achats (GA) par Directeur adjoint JEAN Jacques 
+10/12/2020 02:09:53 Ajout d'ECU 20202021-3 POA Pratique Opérationnelle des Achats (GA) par Directeur adjoint JEAN Jacques 
+10/12/2020 02:13:11 Ajout d'ECU 20202021-4 SCM Système Commercial Multilatéral (SCM) par Directeur adjoint JEAN Jacques 
+10/12/2020 02:13:34 Ajout d'ECU 20202021-5 GQRC Gestion de la Qualité Relation Clients (GRQC) par Directeur adjoint JEAN Jacques 
+10/12/2020 02:14:02 Ajout d'ECU 20202021-6 MEC Méthodologie d'Etude de Cas (EC) par Directeur adjoint JEAN Jacques 
+10/12/2020 02:14:23 Ajout d'ECU 20202021-7 PEC Pratique d'Etude de Cas (EC) par Directeur adjoint JEAN Jacques 
+10/12/2020 02:17:45 Ajout d'ECU 20202021-8 IA Informatique Appliquée (IA) par Directeur adjoint JEAN Jacques 
+10/12/2020 02:18:00 Ajout d'ECU 20202021-9 CE Création d'Entreprise (CE) par Directeur adjoint JEAN Jacques 
+10/12/2020 02:18:38 Ajout d'ECU 20202021-10 MEREAGE Mereage (MR) par Directeur adjoint JEAN Jacques 
+10/12/2020 02:18:56 Ajout d'ECU 20202021-11 ADQQ Analyse des Données Quantitatives et Qualitatives (MR) par Directeur adjoint JEAN Jacques 
+10/12/2020 02:23:54 Ajout d'ECU 20202021-12 RSE Responsabilité Sociale des Entreprises (RSE) par Directeur adjoint JEAN Jacques 
+10/12/2020 02:24:15 Ajout d'ECU 20202021-13 MS Marketing Stratégique (MS) par Directeur adjoint JEAN Jacques 
+10/12/2020 02:24:35 Ajout d'ECU 20202021-14 TRAE Technique de Recherche Active d'Emploi (TRAE) par Directeur adjoint JEAN Jacques 
+01/09/2023 03:56:35 Ajout d'ECU 20192020-31 AAA AAA (MG) par Directeur adjoint JEAN Jacques 
+01/09/2023 03:56:42 Suppression d'ECU ''20192020-31 AAA AAA (MG)'' par Directeur adjoint JEAN Jacques 

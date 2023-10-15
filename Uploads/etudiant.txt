@@ -1,0 +1,91 @@
+27/10/2020 10:03:02 Ajout d'étudiant 20212022-9 111111111 aaaaaaa aaaaaaa F 999999999 2000-02-02 aaaaaaaaaa Béninoise PSST par Chef Sco Jacques Ayik 
+27/10/2020 10:09:47 Modification d'étudiant '' 20212022-9 111111111 aaaaaaa aaaaaaa   2000-02-02   '' en ''20212022-9 111111111 bbbbbbbb bbbbbbbb F 999999999 2000-02-02 aaaaaaaaaa Béninoise PSST'' par Chef Sco Jacques Ayik 
+27/10/2020 10:10:53 Modification d'étudiant '' 20212022-9 111111111 bbbbbbbb bbbbbbbb   2000-02-02   '' en ''20212022-9 111111111 bbbbbbbb bbbbbbbb F 999999999 2000-02-02 aaaaaaaaaa Béninoise PSST'' par Chef Sco Jacques Ayik 
+27/10/2020 10:11:09 Modification d'étudiant '' 20212022-9 11111222 bbbbbbbb bbbbbbbb   2000-02-02   '' en ''20212022-9 11111222 ccccccccccc ccccccccb F 999999999 2000-02-02 aaaaaaaaaa Béninoise PSST'' par Chef Sco Jacques Ayik 
+27/10/2020 10:12:51 Suppression d'étudiant ''20212022-9 11111222 ccccccccccc ccccccccb'' par Chef Sco Jacques Ayik
+01/11/2020 14:21:08 Ajout d'étudiant 20212022-9 14741474 BAGNA Aliath F 95989794 2001-12-14 Parakou Béninoise PSST par Chef Sco Jacques Ayik 
+01/11/2020 14:22:19 Ajout d'étudiant 20212022-10 14141414 YAYA Kouagou M 98989794 2000-12-15 Cotonou Béninoise PSST par Chef Sco Jacques Ayik 
+08/11/2020 10:40:21 Ajout d'étudiant 20212022-11 15151817 ADAMOU Arouna M 96325478 1999-12-15 Kakara Béninoise PSST par Chef Sco Jacques Ayik 
+08/11/2020 11:58:29 Suppression d'étudiant ''20212022-11 15151817 ADAMOU Arouna'' par Chef Sco Jacques Ayik 
+17/11/2020 23:18:23 Ajout d'étudiant 20192020-1 11443518 AMOUZOUNVI Amandine F 95301784 2000-12-25 Parakou Béninoise PSST par Chef Sco Jacques Ayik 
+18/11/2020 01:44:36 Ajout d'étudiant 20192020-2 11443418 CHABI Mouléro Régis M 97931100 2000-12-26 Glazoué Béninoise PSST par Chef Sco Jacques Ayik 
+18/11/2020 01:44:36 Ajout d'étudiant 20192020-3 11471018 GBONGBON Gil-Christ M 66125214 2010-02-27 Kandi Béninoise RDBT par Chef Sco Jacques Ayik 
+18/11/2020 01:44:36 Ajout d'étudiant 20192020-4 11443718 HADJI Délali Chantal Léonie F 97852501 2000-12-28 Cotonou Béninoise PSST par Chef Sco Jacques Ayik 
+18/11/2020 01:44:37 Ajout d'étudiant 20192020-5 10765017 HOUNSOUNON Rodrigue Buscadja M 97852502 2000-12-25 Parakou Béninoise PSST par Chef Sco Jacques Ayik 
+18/11/2020 01:44:37 Ajout d'étudiant 20192020-6 12027318 LAYODE Adéyémi judith Lucrèce F 97852503 2000-12-26 Glazoué Togolaise RDBT par Chef Sco Jacques Ayik 
+18/11/2020 01:44:37 Ajout d'étudiant 20192020-7 11443618 MEHINTO Macandjouola Odette F 97852504 2010-02-27 Kandi Béninoise PSST par Chef Sco Jacques Ayik 
+18/11/2020 01:44:37 Ajout d'étudiant 20192020-8 10443618 NOSSA Akuélé Sêmêvo Josette Horisse F 97852505 2000-12-28 Cotonou Béninoise RDBT par Chef Sco Jacques Ayik 
+18/11/2020 01:44:37 Ajout d'étudiant 20192020-9 11438418 SEGBEMON Tonanlonhan Bernard M 97852506 2000-12-25 Parakou Béninoise PSST par Chef Sco Jacques Ayik 
+18/11/2020 01:44:38 Ajout d'étudiant 20192020-10 11680818 SOTOHOU Martiale Diane F 97852507 2000-12-25 Djougou Sénégalaise PSST par Chef Sco Jacques Ayik 
+18/11/2020 09:15:07 Ajout d'étudiant 20192020-1 12821120 ADJAKPE Amour Sessito M 99999999 1900-01-13 Bohicon Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:15:08 Ajout d'étudiant 20192020-2 12738020 ADZESSO Yawavi Aboué Borice F 99999999 1900-01-02 TGudo Benin BRS par Chef Sco Jacques Ayik 
+18/11/2020 09:15:08 Ajout d'étudiant 20192020-3 12738220 BANKOLE Sèdjro Olouwatobi Romaric M 99999999 1900-01-23 Porto-Novo Benin BRS par Chef Sco Jacques Ayik 
+18/11/2020 09:15:08 Ajout d'étudiant 20192020-4 13039520 BASSALE Reine F 99999999 1900-01-29 Parakou Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:15:08 Ajout d'étudiant 20192020-5 12738320 BOGNONKPE Sènami Aubierge Murielle F 99999999 1900-01-02 Houégbo Benin BRS par Chef Sco Jacques Ayik 
+18/11/2020 09:15:09 Ajout d'étudiant 20192020-6 12821020 DEDEGBE Samson Finagnon M 99999999 1900-01-23 Zounzonmè Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:15:09 Ajout d'étudiant 20192020-7 12820920 HOUNDJI Othnielle Ma Exaucée F 99999999 1900-01-30 Cotonou Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:15:09 Ajout d'étudiant 20192020-8 12738820 INOUSSA Zoulfath Achabi F 99999999 1900-01-30 Porto-Novo Benin BRS par Chef Sco Jacques Ayik 
+18/11/2020 09:15:09 Ajout d'étudiant 20192020-9 12902620 ISSIFOU Abdou- Moufrid M 99999999 1900-01-20 Tourou Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:15:09 Ajout d'étudiant 20192020-10 13038120 WOROU Marlène  Ornéla F 99999999 1900-01-09 Akpéro Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:32:54 Ajout d'étudiant 20192020-1 12821120 ADJAKPE Amour Sessito M 99999999 1900-01-13 Bohicon Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:32:54 Ajout d'étudiant 20192020-2 12738020 ADZESSO Yawavi Aboué Borice F 99999999 1900-01-02 TGudo Benin BRS par Chef Sco Jacques Ayik 
+18/11/2020 09:32:54 Ajout d'étudiant 20192020-3 12738220 BANKOLE Sèdjro Olouwatobi Romaric M 99999999 1900-01-23 Porto-Novo Benin BRS par Chef Sco Jacques Ayik 
+18/11/2020 09:32:55 Ajout d'étudiant 20192020-4 13039520 BASSALE Reine F 99999999 1900-01-29 Parakou Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:32:55 Ajout d'étudiant 20192020-5 12738320 BOGNONKPE Sènami Aubierge Murielle F 99999999 1900-01-02 Houégbo Benin BRS par Chef Sco Jacques Ayik 
+18/11/2020 09:32:55 Ajout d'étudiant 20192020-6 12821020 DEDEGBE Samson Finagnon M 99999999 1900-01-23 Zounzonmè Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:32:55 Ajout d'étudiant 20192020-7 12820920 HOUNDJI Othnielle Ma Exaucée F 99999999 1900-01-30 Cotonou Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:32:55 Ajout d'étudiant 20192020-8 12738820 INOUSSA Zoulfath Achabi F 99999999 1900-01-30 Porto-Novo Benin BRS par Chef Sco Jacques Ayik 
+18/11/2020 09:32:56 Ajout d'étudiant 20192020-9 12902620 ISSIFOU Abdou- Moufrid M 99999999 1900-01-20 Tourou Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:32:56 Ajout d'étudiant 20192020-10 13038120 WOROU Marlène  Ornéla F 99999999 1900-01-09 Akpéro Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:34:30 Ajout d'étudiant 20192020-1 12821120 ADJAKPE Amour Sessito M 99999999 1900-01-13 Bohicon Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:34:31 Ajout d'étudiant 20192020-2 12738020 ADZESSO Yawavi Aboué Borice F 99999999 1900-01-02 TGudo Benin BRS par Chef Sco Jacques Ayik 
+18/11/2020 09:34:31 Ajout d'étudiant 20192020-3 12738220 BANKOLE Sèdjro Olouwatobi Romaric M 99999999 1900-01-23 Porto-Novo Benin BRS par Chef Sco Jacques Ayik 
+18/11/2020 09:34:31 Ajout d'étudiant 20192020-4 13039520 BASSALE Reine F 99999999 1900-01-29 Parakou Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:34:32 Ajout d'étudiant 20192020-5 12738320 BOGNONKPE Sènami Aubierge Murielle F 99999999 1900-01-02 Houégbo Benin BRS par Chef Sco Jacques Ayik 
+18/11/2020 09:34:32 Ajout d'étudiant 20192020-6 12821020 DEDEGBE Samson Finagnon M 99999999 1900-01-23 Zounzonmè Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:34:32 Ajout d'étudiant 20192020-7 12820920 HOUNDJI Othnielle Ma Exaucée F 99999999 1900-01-30 Cotonou Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:34:32 Ajout d'étudiant 20192020-8 12738820 INOUSSA Zoulfath Achabi F 99999999 1900-01-30 Porto-Novo Benin BRS par Chef Sco Jacques Ayik 
+18/11/2020 09:34:32 Ajout d'étudiant 20192020-9 12902620 ISSIFOU Abdou- Moufrid M 99999999 1900-01-20 Tourou Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:34:33 Ajout d'étudiant 20192020-10 13038120 WOROU Marlène  Ornéla F 99999999 1900-01-09 Akpéro Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:47:58 Ajout d'étudiant 20192020-1 12821120 ADJAKPE Amour Sessito M 99999999 1900-01-13 Bohicon Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:47:59 Ajout d'étudiant 20192020-2 12738020 ADZESSO Yawavi Aboué Borice F 99999999 1900-01-02 TGudo Benin BRS par Chef Sco Jacques Ayik 
+18/11/2020 09:47:59 Ajout d'étudiant 20192020-3 12738220 BANKOLE Sèdjro Olouwatobi Romaric M 99999999 1900-01-23 Porto-Novo Benin BRS par Chef Sco Jacques Ayik 
+18/11/2020 09:47:59 Ajout d'étudiant 20192020-4 13039520 BASSALE Reine F 99999999 1900-01-29 Parakou Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:48:00 Ajout d'étudiant 20192020-5 12738320 BOGNONKPE Sènami Aubierge Murielle F 99999999 1900-01-02 Houégbo Benin BRS par Chef Sco Jacques Ayik 
+18/11/2020 09:48:00 Ajout d'étudiant 20192020-6 12821020 DEDEGBE Samson Finagnon M 99999999 1900-01-23 Zounzonmè Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:48:00 Ajout d'étudiant 20192020-7 12820920 HOUNDJI Othnielle Ma Exaucée F 99999999 1900-01-30 Cotonou Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:48:00 Ajout d'étudiant 20192020-8 12738820 INOUSSA Zoulfath Achabi F 99999999 1900-01-30 Porto-Novo Benin BRS par Chef Sco Jacques Ayik 
+18/11/2020 09:48:01 Ajout d'étudiant 20192020-9 12902620 ISSIFOU Abdou- Moufrid M 99999999 1900-01-20 Tourou Benin SPR par Chef Sco Jacques Ayik 
+18/11/2020 09:48:01 Ajout d'étudiant 20192020-10 13038120 WOROU Marlène  Ornéla F 99999999 1900-01-09 Akpéro Benin SPR par Chef Sco Jacques Ayik 
+06/12/2020 14:55:31 Suppression d'étudiant ''20192020-12 11443418 CHABI Mouléro Régis'' par Chef Sco Jacques Ayik 
+09/12/2020 12:01:52 Ajout d'étudiant 20192020-11 11443518 AMOUZOUNVI Amandine F 95301784 2000-12-25 Parakou Béninoise PSST par Chef Sco Jacques Ayik 
+09/12/2020 12:01:53 Ajout d'étudiant 20192020-12 11443418 CHABI Mouléro Régis M 97931100 2000-12-26 Glazoué Béninoise PSST par Chef Sco Jacques Ayik 
+09/12/2020 12:01:53 Ajout d'étudiant 20192020-13 11471018 GBONGBON Gil-Christ M 66125214 2010-02-27 Kandi Béninoise PSST par Chef Sco Jacques Ayik 
+09/12/2020 12:01:53 Ajout d'étudiant 20192020-14 11443718 HADJI Délali Chantal Léonie F 97852501 2000-12-28 Cotonou Béninoise PSST par Chef Sco Jacques Ayik 
+09/12/2020 12:01:53 Ajout d'étudiant 20192020-15 10765017 HOUNSOUNON Rodrigue Buscadja M 97852502 2000-12-25 Parakou Béninoise PSST par Chef Sco Jacques Ayik 
+09/12/2020 12:01:54 Ajout d'étudiant 20192020-16 12027318 LAYODE Adéyémi judith Lucrèce F 97852503 2000-12-26 Glazoué Togolaise PSST par Chef Sco Jacques Ayik 
+09/12/2020 12:01:54 Ajout d'étudiant 20192020-17 11443618 MEHINTO Macandjouola Odette F 97852504 2010-02-27 Kandi Béninoise PSST par Chef Sco Jacques Ayik 
+09/12/2020 12:01:54 Ajout d'étudiant 20192020-18 10443618 NOSSA Akuélé Sêmêvo Josette Horisse F 97852505 2000-12-28 Cotonou Béninoise PSST par Chef Sco Jacques Ayik 
+09/12/2020 12:01:54 Ajout d'étudiant 20192020-19 11438418 SEGBEMON Tonanlonhan Bernard M 97852506 2000-12-25 Parakou Béninoise PSST par Chef Sco Jacques Ayik 
+09/12/2020 12:01:54 Ajout d'étudiant 20192020-20 11680818 SOTOHOU Martiale Diane F 97852507 2000-12-25 Djougou Sénégalaise PSST par Chef Sco Jacques Ayik 
+10/12/2020 02:27:50 Ajout d'étudiant 20202021-1 11443518 AMOUZOUNVI Amandine F 95301784 2000-12-25 Parakou Béninoise PSST par Chef Sco Jacques Ayik 
+10/12/2020 02:27:51 Ajout d'étudiant 20202021-2 11443418 CHABI Mouléro Régis M 97931100 2000-12-26 Glazoué Béninoise PSST par Chef Sco Jacques Ayik 
+10/12/2020 02:27:51 Ajout d'étudiant 20202021-3 11471018 GBONGBON Gil-Christ M 66125214 2010-02-27 Kandi Béninoise PSST par Chef Sco Jacques Ayik 
+10/12/2020 02:27:51 Ajout d'étudiant 20202021-4 11443718 HADJI Délali Chantal Léonie F 97852501 2000-12-28 Cotonou Béninoise PSST par Chef Sco Jacques Ayik 
+10/12/2020 02:27:51 Ajout d'étudiant 20202021-5 10765017 HOUNSOUNON Rodrigue Buscadja M 97852502 2000-12-25 Parakou Béninoise PSST par Chef Sco Jacques Ayik 
+10/12/2020 02:27:52 Ajout d'étudiant 20202021-6 12027318 LAYODE Adéyémi judith Lucrèce F 97852503 2000-12-26 Glazoué Togolaise PSST par Chef Sco Jacques Ayik 
+10/12/2020 02:27:52 Ajout d'étudiant 20202021-7 11443618 MEHINTO Macandjouola Odette F 97852504 2010-02-27 Kandi Béninoise PSST par Chef Sco Jacques Ayik 
+10/12/2020 02:27:52 Ajout d'étudiant 20202021-8 10443618 NOSSA Akuélé Sêmêvo Josette Horisse F 97852505 2000-12-28 Cotonou Béninoise PSST par Chef Sco Jacques Ayik 
+10/12/2020 02:27:53 Ajout d'étudiant 20202021-9 11438418 SEGBEMON Tonanlonhan Bernard M 97852506 2000-12-25 Parakou Béninoise PSST par Chef Sco Jacques Ayik 
+10/12/2020 02:27:53 Ajout d'étudiant 20202021-10 11680818 SOTOHOU Martiale Diane F 97852507 2000-12-25 Djougou Sénégalaise PSST par Chef Sco Jacques Ayik 
+10/12/2020 10:32:10 Ajout d'étudiant 20202021-11 13000102 ADABOUKO Rodolphe M 95301784 2000-12-25 Parakou Béninoise PSST par Chef Sco Jacques Ayik 
+10/12/2020 10:32:10 Ajout d'étudiant 20202021-12 13000103 ADIDO Médis M 97931100 2000-12-26 Glazoué Béninoise PSST par Chef Sco Jacques Ayik 
+10/12/2020 10:32:11 Ajout d'étudiant 20202021-13 13000104 AGOSSOU Adolphe M 66125214 2010-02-27 Kandi Béninoise PSST par Chef Sco Jacques Ayik 
+10/12/2020 10:32:11 Ajout d'étudiant 20202021-14 13000105 AKPINFA Ange Carlos M 97852501 2000-12-28 Cotonou Béninoise PSST par Chef Sco Jacques Ayik 
+10/12/2020 10:32:11 Ajout d'étudiant 20202021-15 13000106 ALI SABI Fahd M 97852502 2000-12-25 Parakou Béninoise PSST par Chef Sco Jacques Ayik 
+10/12/2020 10:46:52 Suppression d'étudiant ''20202021-11 13000102 ADABOUKO Rodolphe'' par Chef Sco Jacques Ayik 
+10/12/2020 10:47:00 Suppression d'étudiant ''20202021-12 13000103 ADIDO Médis'' par Chef Sco Jacques Ayik 
+10/12/2020 10:47:06 Suppression d'étudiant ''20202021-13 13000104 AGOSSOU Adolphe'' par Chef Sco Jacques Ayik 
+10/12/2020 10:47:11 Suppression d'étudiant ''20202021-14 13000105 AKPINFA Ange Carlos'' par Chef Sco Jacques Ayik 
+10/12/2020 10:47:17 Suppression d'étudiant ''20202021-15 13000106 ALI SABI Fahd'' par Chef Sco Jacques Ayik 
+09/04/2021 11:15:18 Ajout d'étudiant 20202021-11 13039520 BASSALE Reine F 99999999 1900-01-29 Parakou Benin RDBT par Directeur adjoint JEAN Jacques 

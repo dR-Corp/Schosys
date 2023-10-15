@@ -1,0 +1,350 @@
+01/11/2020 15:23:32 Ajout d'une note 12121205 AGOSSOU Alain Controle continu d'Environnement logiciel par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 15:23:33 Ajout d'une note 14141414 YAYA Kouagou Controle continu d'Environnement logiciel par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 15:23:33 Ajout d'une note 14741474 BAGNA Aliath Controle continu d'Environnement logiciel par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 15:30:19 Ajout d'une note 12121205 AGOSSOU Alain Examen Final d'Environnement logiciel par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 15:30:19 Ajout d'une note 14141414 YAYA Kouagou Examen Final d'Environnement logiciel par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 15:30:19 Ajout d'une note 14741474 BAGNA Aliath Examen Final d'Environnement logiciel par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 15:31:59 Ajout d'une note 12121205 AGOSSOU Alain Controle continu d'Architecture et Technologie des Ordinateurs par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 15:31:59 Ajout d'une note 14141414 YAYA Kouagou Controle continu d'Architecture et Technologie des Ordinateurs par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 15:31:59 Ajout d'une note 14741474 BAGNA Aliath Controle continu d'Architecture et Technologie des Ordinateurs par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 15:32:50 Ajout d'une note 12121205 AGOSSOU Alain Examen Final d'Architecture et Technologie des Ordinateurs par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 15:32:50 Ajout d'une note 14141414 YAYA Kouagou Examen Final d'Architecture et Technologie des Ordinateurs par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 15:32:50 Ajout d'une note 14741474 BAGNA Aliath Examen Final d'Architecture et Technologie des Ordinateurs par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 15:33:14 Ajout d'une note 12121205 AGOSSOU Alain Controle continu d'Algorithme par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 15:33:14 Ajout d'une note 14141414 YAYA Kouagou Controle continu d'Algorithme par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 15:33:14 Ajout d'une note 14741474 BAGNA Aliath Controle continu d'Algorithme par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 15:34:24 Ajout d'une note 12121205 AGOSSOU Alain Examen Final d'Algorithme par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 15:34:24 Ajout d'une note 14141414 YAYA Kouagou Examen Final d'Algorithme par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 15:34:24 Ajout d'une note 14741474 BAGNA Aliath Examen Final d'Algorithme par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:01:33 Ajout d'une note 12121205 AGOSSOU Alain Controle continu de Comptabilité Générale par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:01:33 Ajout d'une note 14141414 YAYA Kouagou Controle continu de Comptabilité Générale par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:01:33 Ajout d'une note 14741474 BAGNA Aliath Controle continu de Comptabilité Générale par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:02:01 Ajout d'une note 12121205 AGOSSOU Alain Examen Final de Comptabilité Générale par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:02:01 Ajout d'une note 14141414 YAYA Kouagou Examen Final de Comptabilité Générale par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:02:01 Ajout d'une note 14741474 BAGNA Aliath Examen Final de Comptabilité Générale par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:02:35 Ajout d'une note 12121205 AGOSSOU Alain Controle continu de Mathématiques Financières par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:02:35 Ajout d'une note 14141414 YAYA Kouagou Controle continu de Mathématiques Financières par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:02:35 Ajout d'une note 14741474 BAGNA Aliath Controle continu de Mathématiques Financières par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:07:45 Ajout d'une note 12121205 AGOSSOU Alain Examen Final de Mathématiques Financières par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:07:46 Ajout d'une note 14141414 YAYA Kouagou Examen Final de Mathématiques Financières par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:07:46 Ajout d'une note 14741474 BAGNA Aliath Examen Final de Mathématiques Financières par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:11:21 Ajout d'une note 12121205 AGOSSOU Alain Controle continu de Séries et Indices Temporelles par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:11:21 Ajout d'une note 14141414 YAYA Kouagou Controle continu de Séries et Indices Temporelles par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:11:21 Ajout d'une note 14741474 BAGNA Aliath Controle continu de Séries et Indices Temporelles par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:11:56 Ajout d'une note 12121205 AGOSSOU Alain Examen Final de Séries et Indices Temporelles par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:11:56 Ajout d'une note 14141414 YAYA Kouagou Examen Final de Séries et Indices Temporelles par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:11:56 Ajout d'une note 14741474 BAGNA Aliath Examen Final de Séries et Indices Temporelles par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:12:16 Ajout d'une note 12121205 AGOSSOU Alain Controle continu de Statistiques Descriptives par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:12:17 Ajout d'une note 14141414 YAYA Kouagou Controle continu de Statistiques Descriptives par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:12:17 Ajout d'une note 14741474 BAGNA Aliath Controle continu de Statistiques Descriptives par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:12:49 Ajout d'une note 12121205 AGOSSOU Alain Examen Final de Statistiques Descriptives par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:12:49 Ajout d'une note 14141414 YAYA Kouagou Examen Final de Statistiques Descriptives par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:12:49 Ajout d'une note 14741474 BAGNA Aliath Examen Final de Statistiques Descriptives par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:27:34 Ajout d'une note 12121205 AGOSSOU Alain Controle continu de Statistiques ECU2 par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:27:34 Ajout d'une note 14141414 YAYA Kouagou Controle continu de Statistiques ECU2 par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:27:35 Ajout d'une note 14741474 BAGNA Aliath Controle continu de Statistiques ECU2 par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:30:10 Ajout d'une note 12121205 AGOSSOU Alain Examen Final de Statistiques ECU2 par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:30:10 Ajout d'une note 14141414 YAYA Kouagou Examen Final de Statistiques ECU2 par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 16:30:10 Ajout d'une note 14741474 BAGNA Aliath Examen Final de Statistiques ECU2 par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 23:45:13 Modification d'une note ''12121205 AGOSSOU Alain Examen Final d'Environnement logiciel 00'' en ''18'' par Directeur adjoint ADEKAMBI Souleimane 
+01/11/2020 23:46:17 Modification d'une note ''12121205 AGOSSOU Alain Controle continu d'Environnement logiciel 05'' en ''15'' par Directeur adjoint ADEKAMBI Souleimane 
+10/12/2020 06:55:49 Ajout d'une note 11443518 AMOUZOUNVI Amandine Controle continu de Marketing Industriel par Directeur adjoint JEAN Jacques 
+10/12/2020 06:55:49 Ajout d'une note 11680818 SOTOHOU Martiale Diane Controle continu de Marketing Industriel par Directeur adjoint JEAN Jacques 
+10/12/2020 06:55:49 Ajout d'une note 11443418 CHABI Mouléro Régis Controle continu de Marketing Industriel par Directeur adjoint JEAN Jacques 
+10/12/2020 06:55:49 Ajout d'une note 11471018 GBONGBON Gil-Christ Controle continu de Marketing Industriel par Directeur adjoint JEAN Jacques 
+10/12/2020 06:55:49 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Controle continu de Marketing Industriel par Directeur adjoint JEAN Jacques 
+10/12/2020 06:55:49 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Controle continu de Marketing Industriel par Directeur adjoint JEAN Jacques 
+10/12/2020 06:55:49 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Controle continu de Marketing Industriel par Directeur adjoint JEAN Jacques 
+10/12/2020 06:55:49 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Controle continu de Marketing Industriel par Directeur adjoint JEAN Jacques 
+10/12/2020 06:55:49 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Controle continu de Marketing Industriel par Directeur adjoint JEAN Jacques 
+10/12/2020 06:55:49 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Controle continu de Marketing Industriel par Directeur adjoint JEAN Jacques 
+10/12/2020 06:58:01 Ajout d'une note 11443518 AMOUZOUNVI Amandine Examen Final de Marketing Industriel par Directeur adjoint JEAN Jacques 
+10/12/2020 06:58:01 Ajout d'une note 11680818 SOTOHOU Martiale Diane Examen Final de Marketing Industriel par Directeur adjoint JEAN Jacques 
+10/12/2020 06:58:02 Ajout d'une note 11443418 CHABI Mouléro Régis Examen Final de Marketing Industriel par Directeur adjoint JEAN Jacques 
+10/12/2020 06:58:02 Ajout d'une note 11471018 GBONGBON Gil-Christ Examen Final de Marketing Industriel par Directeur adjoint JEAN Jacques 
+10/12/2020 06:58:02 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Examen Final de Marketing Industriel par Directeur adjoint JEAN Jacques 
+10/12/2020 06:58:02 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Examen Final de Marketing Industriel par Directeur adjoint JEAN Jacques 
+10/12/2020 06:58:02 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Examen Final de Marketing Industriel par Directeur adjoint JEAN Jacques 
+10/12/2020 06:58:02 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Examen Final de Marketing Industriel par Directeur adjoint JEAN Jacques 
+10/12/2020 06:58:02 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Examen Final de Marketing Industriel par Directeur adjoint JEAN Jacques 
+10/12/2020 06:58:02 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Examen Final de Marketing Industriel par Directeur adjoint JEAN Jacques 
+10/12/2020 06:59:34 Ajout d'une note 11443518 AMOUZOUNVI Amandine Controle continu de Fondamentaux Gestion des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 06:59:34 Ajout d'une note 11680818 SOTOHOU Martiale Diane Controle continu de Fondamentaux Gestion des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 06:59:35 Ajout d'une note 11443418 CHABI Mouléro Régis Controle continu de Fondamentaux Gestion des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 06:59:35 Ajout d'une note 11471018 GBONGBON Gil-Christ Controle continu de Fondamentaux Gestion des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 06:59:35 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Controle continu de Fondamentaux Gestion des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 06:59:35 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Controle continu de Fondamentaux Gestion des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 06:59:35 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Controle continu de Fondamentaux Gestion des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 06:59:35 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Controle continu de Fondamentaux Gestion des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 06:59:35 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Controle continu de Fondamentaux Gestion des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 06:59:35 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Controle continu de Fondamentaux Gestion des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:00:50 Ajout d'une note 11443518 AMOUZOUNVI Amandine Examen Final de Fondamentaux Gestion des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:00:50 Ajout d'une note 11680818 SOTOHOU Martiale Diane Examen Final de Fondamentaux Gestion des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:00:50 Ajout d'une note 11443418 CHABI Mouléro Régis Examen Final de Fondamentaux Gestion des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:00:51 Ajout d'une note 11471018 GBONGBON Gil-Christ Examen Final de Fondamentaux Gestion des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:00:51 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Examen Final de Fondamentaux Gestion des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:00:51 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Examen Final de Fondamentaux Gestion des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:00:51 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Examen Final de Fondamentaux Gestion des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:00:51 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Examen Final de Fondamentaux Gestion des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:00:51 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Examen Final de Fondamentaux Gestion des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:00:51 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Examen Final de Fondamentaux Gestion des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:02:05 Ajout d'une note 11443518 AMOUZOUNVI Amandine Controle continu de Pratique Opérationnelle des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:02:05 Ajout d'une note 11680818 SOTOHOU Martiale Diane Controle continu de Pratique Opérationnelle des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:02:05 Ajout d'une note 11443418 CHABI Mouléro Régis Controle continu de Pratique Opérationnelle des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:02:05 Ajout d'une note 11471018 GBONGBON Gil-Christ Controle continu de Pratique Opérationnelle des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:02:05 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Controle continu de Pratique Opérationnelle des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:02:05 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Controle continu de Pratique Opérationnelle des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:02:06 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Controle continu de Pratique Opérationnelle des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:02:06 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Controle continu de Pratique Opérationnelle des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:02:06 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Controle continu de Pratique Opérationnelle des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:02:06 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Controle continu de Pratique Opérationnelle des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:04:06 Ajout d'une note 11443518 AMOUZOUNVI Amandine Examen Final de Pratique Opérationnelle des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:04:06 Ajout d'une note 11680818 SOTOHOU Martiale Diane Examen Final de Pratique Opérationnelle des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:04:06 Ajout d'une note 11443418 CHABI Mouléro Régis Examen Final de Pratique Opérationnelle des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:04:06 Ajout d'une note 11471018 GBONGBON Gil-Christ Examen Final de Pratique Opérationnelle des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:04:07 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Examen Final de Pratique Opérationnelle des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:04:07 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Examen Final de Pratique Opérationnelle des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:04:07 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Examen Final de Pratique Opérationnelle des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:04:07 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Examen Final de Pratique Opérationnelle des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:04:07 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Examen Final de Pratique Opérationnelle des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 07:04:07 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Examen Final de Pratique Opérationnelle des Achats par Directeur adjoint JEAN Jacques 
+10/12/2020 09:51:15 Ajout d'une note 11443518 AMOUZOUNVI Amandine Controle continu de Système Commercial Multilatéral par Directeur adjoint JEAN Jacques 
+10/12/2020 09:51:15 Ajout d'une note 11680818 SOTOHOU Martiale Diane Controle continu de Système Commercial Multilatéral par Directeur adjoint JEAN Jacques 
+10/12/2020 09:51:15 Ajout d'une note 11443418 CHABI Mouléro Régis Controle continu de Système Commercial Multilatéral par Directeur adjoint JEAN Jacques 
+10/12/2020 09:51:15 Ajout d'une note 11471018 GBONGBON Gil-Christ Controle continu de Système Commercial Multilatéral par Directeur adjoint JEAN Jacques 
+10/12/2020 09:51:15 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Controle continu de Système Commercial Multilatéral par Directeur adjoint JEAN Jacques 
+10/12/2020 09:51:15 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Controle continu de Système Commercial Multilatéral par Directeur adjoint JEAN Jacques 
+10/12/2020 09:51:16 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Controle continu de Système Commercial Multilatéral par Directeur adjoint JEAN Jacques 
+10/12/2020 09:51:16 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Controle continu de Système Commercial Multilatéral par Directeur adjoint JEAN Jacques 
+10/12/2020 09:51:16 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Controle continu de Système Commercial Multilatéral par Directeur adjoint JEAN Jacques 
+10/12/2020 09:51:16 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Controle continu de Système Commercial Multilatéral par Directeur adjoint JEAN Jacques 
+10/12/2020 09:52:21 Ajout d'une note 11443518 AMOUZOUNVI Amandine Examen Final de Système Commercial Multilatéral par Directeur adjoint JEAN Jacques 
+10/12/2020 09:52:21 Ajout d'une note 11680818 SOTOHOU Martiale Diane Examen Final de Système Commercial Multilatéral par Directeur adjoint JEAN Jacques 
+10/12/2020 09:52:22 Ajout d'une note 11443418 CHABI Mouléro Régis Examen Final de Système Commercial Multilatéral par Directeur adjoint JEAN Jacques 
+10/12/2020 09:52:22 Ajout d'une note 11471018 GBONGBON Gil-Christ Examen Final de Système Commercial Multilatéral par Directeur adjoint JEAN Jacques 
+10/12/2020 09:52:22 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Examen Final de Système Commercial Multilatéral par Directeur adjoint JEAN Jacques 
+10/12/2020 09:52:22 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Examen Final de Système Commercial Multilatéral par Directeur adjoint JEAN Jacques 
+10/12/2020 09:52:22 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Examen Final de Système Commercial Multilatéral par Directeur adjoint JEAN Jacques 
+10/12/2020 09:52:22 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Examen Final de Système Commercial Multilatéral par Directeur adjoint JEAN Jacques 
+10/12/2020 09:52:22 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Examen Final de Système Commercial Multilatéral par Directeur adjoint JEAN Jacques 
+10/12/2020 09:52:22 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Examen Final de Système Commercial Multilatéral par Directeur adjoint JEAN Jacques 
+10/12/2020 09:54:14 Ajout d'une note 11443518 AMOUZOUNVI Amandine Controle continu de Gestion de la Qualité Relation Clients par Directeur adjoint JEAN Jacques 
+10/12/2020 09:54:14 Ajout d'une note 11680818 SOTOHOU Martiale Diane Controle continu de Gestion de la Qualité Relation Clients par Directeur adjoint JEAN Jacques 
+10/12/2020 09:54:14 Ajout d'une note 11443418 CHABI Mouléro Régis Controle continu de Gestion de la Qualité Relation Clients par Directeur adjoint JEAN Jacques 
+10/12/2020 09:54:14 Ajout d'une note 11471018 GBONGBON Gil-Christ Controle continu de Gestion de la Qualité Relation Clients par Directeur adjoint JEAN Jacques 
+10/12/2020 09:54:14 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Controle continu de Gestion de la Qualité Relation Clients par Directeur adjoint JEAN Jacques 
+10/12/2020 09:54:14 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Controle continu de Gestion de la Qualité Relation Clients par Directeur adjoint JEAN Jacques 
+10/12/2020 09:54:14 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Controle continu de Gestion de la Qualité Relation Clients par Directeur adjoint JEAN Jacques 
+10/12/2020 09:54:14 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Controle continu de Gestion de la Qualité Relation Clients par Directeur adjoint JEAN Jacques 
+10/12/2020 09:54:15 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Controle continu de Gestion de la Qualité Relation Clients par Directeur adjoint JEAN Jacques 
+10/12/2020 09:54:15 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Controle continu de Gestion de la Qualité Relation Clients par Directeur adjoint JEAN Jacques 
+10/12/2020 09:55:14 Ajout d'une note 11443518 AMOUZOUNVI Amandine Examen Final de Gestion de la Qualité Relation Clients par Directeur adjoint JEAN Jacques 
+10/12/2020 09:55:14 Ajout d'une note 11680818 SOTOHOU Martiale Diane Examen Final de Gestion de la Qualité Relation Clients par Directeur adjoint JEAN Jacques 
+10/12/2020 09:55:15 Ajout d'une note 11443418 CHABI Mouléro Régis Examen Final de Gestion de la Qualité Relation Clients par Directeur adjoint JEAN Jacques 
+10/12/2020 09:55:15 Ajout d'une note 11471018 GBONGBON Gil-Christ Examen Final de Gestion de la Qualité Relation Clients par Directeur adjoint JEAN Jacques 
+10/12/2020 09:55:15 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Examen Final de Gestion de la Qualité Relation Clients par Directeur adjoint JEAN Jacques 
+10/12/2020 09:55:15 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Examen Final de Gestion de la Qualité Relation Clients par Directeur adjoint JEAN Jacques 
+10/12/2020 09:55:15 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Examen Final de Gestion de la Qualité Relation Clients par Directeur adjoint JEAN Jacques 
+10/12/2020 09:55:15 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Examen Final de Gestion de la Qualité Relation Clients par Directeur adjoint JEAN Jacques 
+10/12/2020 09:55:15 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Examen Final de Gestion de la Qualité Relation Clients par Directeur adjoint JEAN Jacques 
+10/12/2020 09:55:15 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Examen Final de Gestion de la Qualité Relation Clients par Directeur adjoint JEAN Jacques 
+10/12/2020 09:57:16 Ajout d'une note 11443518 AMOUZOUNVI Amandine Controle continu de Méthodologie d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:57:16 Ajout d'une note 11680818 SOTOHOU Martiale Diane Controle continu de Méthodologie d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:57:17 Ajout d'une note 11443418 CHABI Mouléro Régis Controle continu de Méthodologie d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:57:17 Ajout d'une note 11471018 GBONGBON Gil-Christ Controle continu de Méthodologie d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:57:17 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Controle continu de Méthodologie d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:57:17 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Controle continu de Méthodologie d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:57:17 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Controle continu de Méthodologie d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:57:17 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Controle continu de Méthodologie d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:57:17 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Controle continu de Méthodologie d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:57:17 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Controle continu de Méthodologie d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:58:07 Ajout d'une note 11443518 AMOUZOUNVI Amandine Examen Final de Méthodologie d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:58:07 Ajout d'une note 11680818 SOTOHOU Martiale Diane Examen Final de Méthodologie d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:58:07 Ajout d'une note 11443418 CHABI Mouléro Régis Examen Final de Méthodologie d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:58:07 Ajout d'une note 11471018 GBONGBON Gil-Christ Examen Final de Méthodologie d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:58:07 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Examen Final de Méthodologie d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:58:07 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Examen Final de Méthodologie d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:58:07 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Examen Final de Méthodologie d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:58:08 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Examen Final de Méthodologie d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:58:08 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Examen Final de Méthodologie d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:58:08 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Examen Final de Méthodologie d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:58:51 Ajout d'une note 11443518 AMOUZOUNVI Amandine Controle continu de Pratique d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:58:51 Ajout d'une note 11680818 SOTOHOU Martiale Diane Controle continu de Pratique d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:58:52 Ajout d'une note 11443418 CHABI Mouléro Régis Controle continu de Pratique d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:58:52 Ajout d'une note 11471018 GBONGBON Gil-Christ Controle continu de Pratique d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:58:52 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Controle continu de Pratique d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:58:52 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Controle continu de Pratique d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:58:52 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Controle continu de Pratique d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:58:52 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Controle continu de Pratique d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:58:52 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Controle continu de Pratique d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:58:52 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Controle continu de Pratique d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:59:48 Ajout d'une note 11443518 AMOUZOUNVI Amandine Examen Final de Pratique d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:59:48 Ajout d'une note 11680818 SOTOHOU Martiale Diane Examen Final de Pratique d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:59:48 Ajout d'une note 11443418 CHABI Mouléro Régis Examen Final de Pratique d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:59:48 Ajout d'une note 11471018 GBONGBON Gil-Christ Examen Final de Pratique d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:59:49 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Examen Final de Pratique d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:59:49 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Examen Final de Pratique d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:59:49 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Examen Final de Pratique d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:59:49 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Examen Final de Pratique d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:59:49 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Examen Final de Pratique d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 09:59:49 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Examen Final de Pratique d'Etude de Cas par Directeur adjoint JEAN Jacques 
+10/12/2020 10:00:59 Ajout d'une note 11443518 AMOUZOUNVI Amandine Controle continu d'Informatique Appliquée par Directeur adjoint JEAN Jacques 
+10/12/2020 10:00:59 Ajout d'une note 11680818 SOTOHOU Martiale Diane Controle continu d'Informatique Appliquée par Directeur adjoint JEAN Jacques 
+10/12/2020 10:01:00 Ajout d'une note 11443418 CHABI Mouléro Régis Controle continu d'Informatique Appliquée par Directeur adjoint JEAN Jacques 
+10/12/2020 10:01:00 Ajout d'une note 11471018 GBONGBON Gil-Christ Controle continu d'Informatique Appliquée par Directeur adjoint JEAN Jacques 
+10/12/2020 10:01:00 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Controle continu d'Informatique Appliquée par Directeur adjoint JEAN Jacques 
+10/12/2020 10:01:00 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Controle continu d'Informatique Appliquée par Directeur adjoint JEAN Jacques 
+10/12/2020 10:01:00 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Controle continu d'Informatique Appliquée par Directeur adjoint JEAN Jacques 
+10/12/2020 10:01:00 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Controle continu d'Informatique Appliquée par Directeur adjoint JEAN Jacques 
+10/12/2020 10:01:00 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Controle continu d'Informatique Appliquée par Directeur adjoint JEAN Jacques 
+10/12/2020 10:01:00 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Controle continu d'Informatique Appliquée par Directeur adjoint JEAN Jacques 
+10/12/2020 10:03:35 Ajout d'une note 11443518 AMOUZOUNVI Amandine Examen Final d'Informatique Appliquée par Directeur adjoint JEAN Jacques 
+10/12/2020 10:03:35 Ajout d'une note 11680818 SOTOHOU Martiale Diane Examen Final d'Informatique Appliquée par Directeur adjoint JEAN Jacques 
+10/12/2020 10:03:35 Ajout d'une note 11443418 CHABI Mouléro Régis Examen Final d'Informatique Appliquée par Directeur adjoint JEAN Jacques 
+10/12/2020 10:03:35 Ajout d'une note 11471018 GBONGBON Gil-Christ Examen Final d'Informatique Appliquée par Directeur adjoint JEAN Jacques 
+10/12/2020 10:03:35 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Examen Final d'Informatique Appliquée par Directeur adjoint JEAN Jacques 
+10/12/2020 10:03:35 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Examen Final d'Informatique Appliquée par Directeur adjoint JEAN Jacques 
+10/12/2020 10:03:35 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Examen Final d'Informatique Appliquée par Directeur adjoint JEAN Jacques 
+10/12/2020 10:03:35 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Examen Final d'Informatique Appliquée par Directeur adjoint JEAN Jacques 
+10/12/2020 10:03:36 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Examen Final d'Informatique Appliquée par Directeur adjoint JEAN Jacques 
+10/12/2020 10:03:36 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Examen Final d'Informatique Appliquée par Directeur adjoint JEAN Jacques 
+10/12/2020 10:04:27 Ajout d'une note 11443518 AMOUZOUNVI Amandine Controle continu de Mereage par Directeur adjoint JEAN Jacques 
+10/12/2020 10:04:27 Ajout d'une note 11680818 SOTOHOU Martiale Diane Controle continu de Mereage par Directeur adjoint JEAN Jacques 
+10/12/2020 10:04:27 Ajout d'une note 11443418 CHABI Mouléro Régis Controle continu de Mereage par Directeur adjoint JEAN Jacques 
+10/12/2020 10:04:27 Ajout d'une note 11471018 GBONGBON Gil-Christ Controle continu de Mereage par Directeur adjoint JEAN Jacques 
+10/12/2020 10:04:27 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Controle continu de Mereage par Directeur adjoint JEAN Jacques 
+10/12/2020 10:04:27 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Controle continu de Mereage par Directeur adjoint JEAN Jacques 
+10/12/2020 10:04:27 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Controle continu de Mereage par Directeur adjoint JEAN Jacques 
+10/12/2020 10:04:28 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Controle continu de Mereage par Directeur adjoint JEAN Jacques 
+10/12/2020 10:04:28 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Controle continu de Mereage par Directeur adjoint JEAN Jacques 
+10/12/2020 10:04:28 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Controle continu de Mereage par Directeur adjoint JEAN Jacques 
+10/12/2020 10:05:29 Ajout d'une note 11443518 AMOUZOUNVI Amandine Examen Final de Mereage par Directeur adjoint JEAN Jacques 
+10/12/2020 10:05:29 Ajout d'une note 11680818 SOTOHOU Martiale Diane Examen Final de Mereage par Directeur adjoint JEAN Jacques 
+10/12/2020 10:05:29 Ajout d'une note 11443418 CHABI Mouléro Régis Examen Final de Mereage par Directeur adjoint JEAN Jacques 
+10/12/2020 10:05:29 Ajout d'une note 11471018 GBONGBON Gil-Christ Examen Final de Mereage par Directeur adjoint JEAN Jacques 
+10/12/2020 10:05:29 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Examen Final de Mereage par Directeur adjoint JEAN Jacques 
+10/12/2020 10:05:29 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Examen Final de Mereage par Directeur adjoint JEAN Jacques 
+10/12/2020 10:05:29 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Examen Final de Mereage par Directeur adjoint JEAN Jacques 
+10/12/2020 10:05:29 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Examen Final de Mereage par Directeur adjoint JEAN Jacques 
+10/12/2020 10:05:29 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Examen Final de Mereage par Directeur adjoint JEAN Jacques 
+10/12/2020 10:05:30 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Examen Final de Mereage par Directeur adjoint JEAN Jacques 
+10/12/2020 10:06:13 Ajout d'une note 11443518 AMOUZOUNVI Amandine Controle continu d'Analyse des Données Quantitatives et Qualitatives par Directeur adjoint JEAN Jacques 
+10/12/2020 10:06:13 Ajout d'une note 11680818 SOTOHOU Martiale Diane Controle continu d'Analyse des Données Quantitatives et Qualitatives par Directeur adjoint JEAN Jacques 
+10/12/2020 10:06:13 Ajout d'une note 11443418 CHABI Mouléro Régis Controle continu d'Analyse des Données Quantitatives et Qualitatives par Directeur adjoint JEAN Jacques 
+10/12/2020 10:06:13 Ajout d'une note 11471018 GBONGBON Gil-Christ Controle continu d'Analyse des Données Quantitatives et Qualitatives par Directeur adjoint JEAN Jacques 
+10/12/2020 10:06:13 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Controle continu d'Analyse des Données Quantitatives et Qualitatives par Directeur adjoint JEAN Jacques 
+10/12/2020 10:06:13 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Controle continu d'Analyse des Données Quantitatives et Qualitatives par Directeur adjoint JEAN Jacques 
+10/12/2020 10:06:13 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Controle continu d'Analyse des Données Quantitatives et Qualitatives par Directeur adjoint JEAN Jacques 
+10/12/2020 10:06:13 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Controle continu d'Analyse des Données Quantitatives et Qualitatives par Directeur adjoint JEAN Jacques 
+10/12/2020 10:06:14 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Controle continu d'Analyse des Données Quantitatives et Qualitatives par Directeur adjoint JEAN Jacques 
+10/12/2020 10:06:14 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Controle continu d'Analyse des Données Quantitatives et Qualitatives par Directeur adjoint JEAN Jacques 
+10/12/2020 10:07:11 Ajout d'une note 11443518 AMOUZOUNVI Amandine Examen Final d'Analyse des Données Quantitatives et Qualitatives par Directeur adjoint JEAN Jacques 
+10/12/2020 10:07:11 Ajout d'une note 11680818 SOTOHOU Martiale Diane Examen Final d'Analyse des Données Quantitatives et Qualitatives par Directeur adjoint JEAN Jacques 
+10/12/2020 10:07:12 Ajout d'une note 11443418 CHABI Mouléro Régis Examen Final d'Analyse des Données Quantitatives et Qualitatives par Directeur adjoint JEAN Jacques 
+10/12/2020 10:07:12 Ajout d'une note 11471018 GBONGBON Gil-Christ Examen Final d'Analyse des Données Quantitatives et Qualitatives par Directeur adjoint JEAN Jacques 
+10/12/2020 10:07:12 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Examen Final d'Analyse des Données Quantitatives et Qualitatives par Directeur adjoint JEAN Jacques 
+10/12/2020 10:07:12 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Examen Final d'Analyse des Données Quantitatives et Qualitatives par Directeur adjoint JEAN Jacques 
+10/12/2020 10:07:12 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Examen Final d'Analyse des Données Quantitatives et Qualitatives par Directeur adjoint JEAN Jacques 
+10/12/2020 10:07:12 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Examen Final d'Analyse des Données Quantitatives et Qualitatives par Directeur adjoint JEAN Jacques 
+10/12/2020 10:07:12 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Examen Final d'Analyse des Données Quantitatives et Qualitatives par Directeur adjoint JEAN Jacques 
+10/12/2020 10:07:12 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Examen Final d'Analyse des Données Quantitatives et Qualitatives par Directeur adjoint JEAN Jacques 
+10/12/2020 10:07:53 Ajout d'une note 11443518 AMOUZOUNVI Amandine Controle continu de Création d'Entreprise par Directeur adjoint JEAN Jacques 
+10/12/2020 10:07:53 Ajout d'une note 11680818 SOTOHOU Martiale Diane Controle continu de Création d'Entreprise par Directeur adjoint JEAN Jacques 
+10/12/2020 10:07:53 Ajout d'une note 11443418 CHABI Mouléro Régis Controle continu de Création d'Entreprise par Directeur adjoint JEAN Jacques 
+10/12/2020 10:07:53 Ajout d'une note 11471018 GBONGBON Gil-Christ Controle continu de Création d'Entreprise par Directeur adjoint JEAN Jacques 
+10/12/2020 10:07:53 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Controle continu de Création d'Entreprise par Directeur adjoint JEAN Jacques 
+10/12/2020 10:07:54 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Controle continu de Création d'Entreprise par Directeur adjoint JEAN Jacques 
+10/12/2020 10:07:54 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Controle continu de Création d'Entreprise par Directeur adjoint JEAN Jacques 
+10/12/2020 10:07:54 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Controle continu de Création d'Entreprise par Directeur adjoint JEAN Jacques 
+10/12/2020 10:07:54 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Controle continu de Création d'Entreprise par Directeur adjoint JEAN Jacques 
+10/12/2020 10:07:54 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Controle continu de Création d'Entreprise par Directeur adjoint JEAN Jacques 
+10/12/2020 10:08:43 Ajout d'une note 11443518 AMOUZOUNVI Amandine Examen Final de Création d'Entreprise par Directeur adjoint JEAN Jacques 
+10/12/2020 10:08:43 Ajout d'une note 11680818 SOTOHOU Martiale Diane Examen Final de Création d'Entreprise par Directeur adjoint JEAN Jacques 
+10/12/2020 10:08:43 Ajout d'une note 11443418 CHABI Mouléro Régis Examen Final de Création d'Entreprise par Directeur adjoint JEAN Jacques 
+10/12/2020 10:08:43 Ajout d'une note 11471018 GBONGBON Gil-Christ Examen Final de Création d'Entreprise par Directeur adjoint JEAN Jacques 
+10/12/2020 10:08:43 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Examen Final de Création d'Entreprise par Directeur adjoint JEAN Jacques 
+10/12/2020 10:08:43 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Examen Final de Création d'Entreprise par Directeur adjoint JEAN Jacques 
+10/12/2020 10:08:43 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Examen Final de Création d'Entreprise par Directeur adjoint JEAN Jacques 
+10/12/2020 10:08:43 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Examen Final de Création d'Entreprise par Directeur adjoint JEAN Jacques 
+10/12/2020 10:08:43 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Examen Final de Création d'Entreprise par Directeur adjoint JEAN Jacques 
+10/12/2020 10:08:43 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Examen Final de Création d'Entreprise par Directeur adjoint JEAN Jacques 
+10/12/2020 10:09:11 Ajout d'une note 11443518 AMOUZOUNVI Amandine Controle continu de Responsabilité Sociale des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 10:09:11 Ajout d'une note 11680818 SOTOHOU Martiale Diane Controle continu de Responsabilité Sociale des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 10:09:11 Ajout d'une note 11443418 CHABI Mouléro Régis Controle continu de Responsabilité Sociale des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 10:09:11 Ajout d'une note 11471018 GBONGBON Gil-Christ Controle continu de Responsabilité Sociale des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 10:09:12 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Controle continu de Responsabilité Sociale des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 10:09:12 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Controle continu de Responsabilité Sociale des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 10:09:12 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Controle continu de Responsabilité Sociale des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 10:09:12 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Controle continu de Responsabilité Sociale des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 10:09:12 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Controle continu de Responsabilité Sociale des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 10:09:12 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Controle continu de Responsabilité Sociale des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 10:09:53 Ajout d'une note 11443518 AMOUZOUNVI Amandine Examen Final de Responsabilité Sociale des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 10:09:53 Ajout d'une note 11680818 SOTOHOU Martiale Diane Examen Final de Responsabilité Sociale des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 10:09:53 Ajout d'une note 11443418 CHABI Mouléro Régis Examen Final de Responsabilité Sociale des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 10:09:53 Ajout d'une note 11471018 GBONGBON Gil-Christ Examen Final de Responsabilité Sociale des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 10:09:53 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Examen Final de Responsabilité Sociale des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 10:09:53 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Examen Final de Responsabilité Sociale des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 10:09:53 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Examen Final de Responsabilité Sociale des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 10:09:54 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Examen Final de Responsabilité Sociale des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 10:09:54 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Examen Final de Responsabilité Sociale des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 10:09:54 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Examen Final de Responsabilité Sociale des Entreprises par Directeur adjoint JEAN Jacques 
+10/12/2020 10:10:25 Ajout d'une note 11443518 AMOUZOUNVI Amandine Controle continu de Marketing Stratégique par Directeur adjoint JEAN Jacques 
+10/12/2020 10:10:26 Ajout d'une note 11680818 SOTOHOU Martiale Diane Controle continu de Marketing Stratégique par Directeur adjoint JEAN Jacques 
+10/12/2020 10:10:26 Ajout d'une note 11443418 CHABI Mouléro Régis Controle continu de Marketing Stratégique par Directeur adjoint JEAN Jacques 
+10/12/2020 10:10:26 Ajout d'une note 11471018 GBONGBON Gil-Christ Controle continu de Marketing Stratégique par Directeur adjoint JEAN Jacques 
+10/12/2020 10:10:26 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Controle continu de Marketing Stratégique par Directeur adjoint JEAN Jacques 
+10/12/2020 10:10:26 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Controle continu de Marketing Stratégique par Directeur adjoint JEAN Jacques 
+10/12/2020 10:10:26 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Controle continu de Marketing Stratégique par Directeur adjoint JEAN Jacques 
+10/12/2020 10:10:26 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Controle continu de Marketing Stratégique par Directeur adjoint JEAN Jacques 
+10/12/2020 10:10:26 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Controle continu de Marketing Stratégique par Directeur adjoint JEAN Jacques 
+10/12/2020 10:10:26 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Controle continu de Marketing Stratégique par Directeur adjoint JEAN Jacques 
+10/12/2020 10:11:15 Ajout d'une note 11443518 AMOUZOUNVI Amandine Examen Final de Marketing Stratégique par Directeur adjoint JEAN Jacques 
+10/12/2020 10:11:15 Ajout d'une note 11680818 SOTOHOU Martiale Diane Examen Final de Marketing Stratégique par Directeur adjoint JEAN Jacques 
+10/12/2020 10:11:15 Ajout d'une note 11443418 CHABI Mouléro Régis Examen Final de Marketing Stratégique par Directeur adjoint JEAN Jacques 
+10/12/2020 10:11:15 Ajout d'une note 11471018 GBONGBON Gil-Christ Examen Final de Marketing Stratégique par Directeur adjoint JEAN Jacques 
+10/12/2020 10:11:15 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Examen Final de Marketing Stratégique par Directeur adjoint JEAN Jacques 
+10/12/2020 10:11:15 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Examen Final de Marketing Stratégique par Directeur adjoint JEAN Jacques 
+10/12/2020 10:11:15 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Examen Final de Marketing Stratégique par Directeur adjoint JEAN Jacques 
+10/12/2020 10:11:15 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Examen Final de Marketing Stratégique par Directeur adjoint JEAN Jacques 
+10/12/2020 10:11:15 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Examen Final de Marketing Stratégique par Directeur adjoint JEAN Jacques 
+10/12/2020 10:11:16 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Examen Final de Marketing Stratégique par Directeur adjoint JEAN Jacques 
+10/12/2020 10:11:56 Ajout d'une note 11443518 AMOUZOUNVI Amandine Controle continu de Technique de Recherche Active d'Emploi par Directeur adjoint JEAN Jacques 
+10/12/2020 10:11:56 Ajout d'une note 11680818 SOTOHOU Martiale Diane Controle continu de Technique de Recherche Active d'Emploi par Directeur adjoint JEAN Jacques 
+10/12/2020 10:11:56 Ajout d'une note 11443418 CHABI Mouléro Régis Controle continu de Technique de Recherche Active d'Emploi par Directeur adjoint JEAN Jacques 
+10/12/2020 10:11:56 Ajout d'une note 11471018 GBONGBON Gil-Christ Controle continu de Technique de Recherche Active d'Emploi par Directeur adjoint JEAN Jacques 
+10/12/2020 10:11:56 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Controle continu de Technique de Recherche Active d'Emploi par Directeur adjoint JEAN Jacques 
+10/12/2020 10:11:56 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Controle continu de Technique de Recherche Active d'Emploi par Directeur adjoint JEAN Jacques 
+10/12/2020 10:11:56 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Controle continu de Technique de Recherche Active d'Emploi par Directeur adjoint JEAN Jacques 
+10/12/2020 10:11:56 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Controle continu de Technique de Recherche Active d'Emploi par Directeur adjoint JEAN Jacques 
+10/12/2020 10:11:56 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Controle continu de Technique de Recherche Active d'Emploi par Directeur adjoint JEAN Jacques 
+10/12/2020 10:11:56 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Controle continu de Technique de Recherche Active d'Emploi par Directeur adjoint JEAN Jacques 
+10/12/2020 10:12:49 Ajout d'une note 11443518 AMOUZOUNVI Amandine Examen Final de Technique de Recherche Active d'Emploi par Directeur adjoint JEAN Jacques 
+10/12/2020 10:12:49 Ajout d'une note 11680818 SOTOHOU Martiale Diane Examen Final de Technique de Recherche Active d'Emploi par Directeur adjoint JEAN Jacques 
+10/12/2020 10:12:49 Ajout d'une note 11443418 CHABI Mouléro Régis Examen Final de Technique de Recherche Active d'Emploi par Directeur adjoint JEAN Jacques 
+10/12/2020 10:12:49 Ajout d'une note 11471018 GBONGBON Gil-Christ Examen Final de Technique de Recherche Active d'Emploi par Directeur adjoint JEAN Jacques 
+10/12/2020 10:12:49 Ajout d'une note 11443718 HADJI Délali Chantal Léonie Examen Final de Technique de Recherche Active d'Emploi par Directeur adjoint JEAN Jacques 
+10/12/2020 10:12:49 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Examen Final de Technique de Recherche Active d'Emploi par Directeur adjoint JEAN Jacques 
+10/12/2020 10:12:49 Ajout d'une note 12027318 LAYODE Adéyémi judith Lucrèce Examen Final de Technique de Recherche Active d'Emploi par Directeur adjoint JEAN Jacques 
+10/12/2020 10:12:49 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Examen Final de Technique de Recherche Active d'Emploi par Directeur adjoint JEAN Jacques 
+10/12/2020 10:12:49 Ajout d'une note 10443618 NOSSA Akuélé Sêmêvo Josette Horisse Examen Final de Technique de Recherche Active d'Emploi par Directeur adjoint JEAN Jacques 
+10/12/2020 10:12:49 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Examen Final de Technique de Recherche Active d'Emploi par Directeur adjoint JEAN Jacques 
+10/12/2020 10:38:44 Ajout d'une note 12738220 BANKOLE Sèdjro Olouwatobi Romaric Reprise d'Informatique Fondamentale par Directeur adjoint JEAN Jacques 
+22/01/2022 19:48:24 Ajout d'une note 11443518 AMOUZOUNVI Amandine Reprise de SystÃ¨me Commercial MultilatÃ©ral par Directeur adjoint JEAN Jacques 
+22/01/2022 19:48:24 Ajout d'une note 11680818 SOTOHOU Martiale Diane Reprise de SystÃ¨me Commercial MultilatÃ©ral par Directeur adjoint JEAN Jacques 
+22/01/2022 19:48:24 Ajout d'une note 11443418 CHABI MoulÃ©ro RÃ©gis Reprise de SystÃ¨me Commercial MultilatÃ©ral par Directeur adjoint JEAN Jacques 
+22/01/2022 19:48:24 Ajout d'une note 11471018 GBONGBON Gil-Christ Reprise de SystÃ¨me Commercial MultilatÃ©ral par Directeur adjoint JEAN Jacques 
+22/01/2022 19:48:24 Ajout d'une note 11443718 HADJI DÃ©lali Chantal LÃ©onie Reprise de SystÃ¨me Commercial MultilatÃ©ral par Directeur adjoint JEAN Jacques 
+22/01/2022 19:48:24 Ajout d'une note 10765017 HOUNSOUNON Rodrigue Buscadja Reprise de SystÃ¨me Commercial MultilatÃ©ral par Directeur adjoint JEAN Jacques 
+22/01/2022 19:48:24 Ajout d'une note 12027318 LAYODE AdÃ©yÃ©mi judith LucrÃ¨ce Reprise de SystÃ¨me Commercial MultilatÃ©ral par Directeur adjoint JEAN Jacques 
+22/01/2022 19:48:24 Ajout d'une note 11443618 MEHINTO Macandjouola Odette Reprise de SystÃ¨me Commercial MultilatÃ©ral par Directeur adjoint JEAN Jacques 
+22/01/2022 19:48:24 Ajout d'une note 10443618 NOSSA AkuÃ©lÃ© SÃªmÃªvo Josette Horisse Reprise de SystÃ¨me Commercial MultilatÃ©ral par Directeur adjoint JEAN Jacques 
+22/01/2022 19:48:24 Ajout d'une note 11438418 SEGBEMON Tonanlonhan Bernard Reprise de SystÃ¨me Commercial MultilatÃ©ral par Directeur adjoint JEAN Jacques 
+01/09/2023 04:00:26 Ajout d'une note 12821120 ADJAKPE Amour Sessito Reprise de MicroÃ©conomie par Directeur adjoint JEAN Jacques 
+01/09/2023 04:00:26 Ajout d'une note 13038120 WOROU MarlÃ¨ne  OrnÃ©la Reprise de MicroÃ©conomie par Directeur adjoint JEAN Jacques 
+01/09/2023 04:00:26 Ajout d'une note 12738020 ADZESSO Yawavi AbouÃ© Borice Reprise de MicroÃ©conomie par Directeur adjoint JEAN Jacques 
+01/09/2023 04:00:27 Ajout d'une note 12738220 BANKOLE SÃ¨djro Olouwatobi Romaric Reprise de MicroÃ©conomie par Directeur adjoint JEAN Jacques 
+01/09/2023 04:00:27 Ajout d'une note 13039520 BASSALE Reine Reprise de MicroÃ©conomie par Directeur adjoint JEAN Jacques 
+01/09/2023 04:00:27 Ajout d'une note 12821020 DEDEGBE Samson Finagnon Reprise de MicroÃ©conomie par Directeur adjoint JEAN Jacques 
+01/09/2023 04:00:27 Ajout d'une note 12820920 HOUNDJI Othnielle Ma ExaucÃ©e Reprise de MicroÃ©conomie par Directeur adjoint JEAN Jacques 
+01/09/2023 04:00:27 Ajout d'une note 12738820 INOUSSA Zoulfath Achabi Reprise de MicroÃ©conomie par Directeur adjoint JEAN Jacques 
+01/09/2023 04:00:27 Ajout d'une note 12902620 ISSIFOU Abdou- Moufrid Reprise de MicroÃ©conomie par Directeur adjoint JEAN Jacques 

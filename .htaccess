@@ -1,0 +1,47 @@
+RewriteEngine On
+
+RewriteRule ^releve-de-notes/([0-9-]+)\+([0-9-]+)$ View/detailReleves.php?idECU=$1&idUE=$2
+
+RewriteRule ^classe-liste-etudiants/([0-9-]+)$ View/detailClasse.php?idClasse=$1
+
+RewriteRule ^proces-verbal-de-fin-de-cycle/([0-9-]+)$ View/detailPVFinCycle.php?idClasse=$1
+RewriteRule ^proces-verbal-de-reprises/([0-9-]+)$ View/detailPVReprise.php?idClasse=$1
+RewriteRule ^proces-verbaux-de-reprises/([0-9]+)$ View/pv_reprises.php?annee_origine=$1
+RewriteRule ^proces-verbal/([0-9-]+)$ View/detailProces.php?idClasse=$1
+
+RewriteRule ^notes/([0-9-]+)\+([0-9-]+)\+(.+)$ View/detailNotes.php?idECU=$1&idEvaluation=$2&add=$3
+RewriteRule ^notes/([0-9-]+)\+([0-9-]+)$ View/detailNotes.php?idECU=$1&idEvaluation=$2
+
+RewriteRule ^attestations-liste-etudiants/([0-9-]+)$ View/detailAttestation.php?idClasse=$1
+RewriteRule ^attestation-de-succes/([0-9-]+)\+(.+)$ View/printAttestations.php?idEtu=$1&filiere=$2
+
+RewriteRule ^bulletins-liste-etudiants/([0-9-]+)$ View/bulletins_listeEtu.php?idClasse=$1
+RewriteRule ^bulletin/([0-9-]+)\+([0-9-]+)$ View/bulletins_print.php?idEtudiant=$1&idClasse=$2
+
+RewriteRule ^#$ #
+RewriteRule ^connexion$ View/connexion.php
+RewriteRule ^accueil$ View/accueil.php
+RewriteRule ^tableau-de-bord$ View/dashboard.php
+RewriteRule ^annees-academiques$ View/annees.php
+RewriteRule ^niveaux$ View/niveaux.php
+RewriteRule ^filieres$ View/filieres.php
+RewriteRule ^annees-etude$ View/classes.php
+RewriteRule ^ue$ View/ue.php
+RewriteRule ^ecu$ View/ecu.php
+RewriteRule ^etudiants$ View/etudiants.php
+RewriteRule ^evaluations$ View/evaluations.php
+RewriteRule ^notes-liste-evaluations$ View/notes.php
+RewriteRule ^releves-de-notes-liste-ecu$ View/releves_notes.php
+RewriteRule ^reprises$ View/reprises.php
+RewriteRule ^proces-verbaux$ View/proces_verbal.php
+RewriteRule ^proces-verbaux-de-reprises$ View/pv_reprises.php
+RewriteRule ^proces-verbaux-de-fin-de-cycle$ View/pv_fincycle.php
+RewriteRule ^modification-de-notes$ View/modifierNotes.php
+RewriteRule ^simulations$ View/simulations.php
+RewriteRule ^statuts-etudiants$ View/statuts.php
+RewriteRule ^types-ue$ View/typeue.php
+RewriteRule ^types-evaluation$ View/typeeval.php
+RewriteRule ^bulletins-liste-classes$ View/bulletins.php
+RewriteRule ^utilisateurs$ View/utilisateur.php
+RewriteRule ^profils-utilisateur$ View/profilUsers.php
+RewriteRule ^attestations-liste-classe$ View/attestations_succes.php
